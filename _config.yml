@@ -1,8 +1,11 @@
-title: Just the Docs Template
+title: Fürestveil University
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://furestveil.com
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/logo.png"
 
 color_scheme: dark
 
