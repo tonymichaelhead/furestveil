@@ -28,7 +28,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 | 11   | Painting with silver frame (5000gp) - difficult for low-level characters to remove, worth only 1000gp if dismantled                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 12   | *Pixie Whistle* (charms pixies), antique silver harp (250gp), dwarven drum (200gp) and drum sticks (75gp for the pair)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 13   | Elven white-silver silverware: 10 sets (70gp per set), dwarven dinnerware elegantly carved from stone with gold ores swirled inside: 10 small plates (30gp each), 10 teacups (40gp each), one small teapot (100gp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 14   | Book of loose notes with a leather cover bound together with string (can cast as an M-U scroll: [Invisibility of 10' Radius](https://oldschoolessentials.necroticgnome.com/srd/index.php/Invisibility%2010%E2%80%99%20Radius), [Light (Darkness)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Light%20\(Darkness\)), [Dispel Magic](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dispel%20Magic), [Growth of Plants](https://oldschoolessentials.necroticgnome.com/srd/index.php/Growth%20of%20Plants)), a scroll containing [Snake Charm](https://oldschoolessentials.necroticgnome.com/srd/index.php/Snake_Charm "Snake Charm") and [Remove Curse (Curse)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Remove_Curse_\(Curse\)_\(C\) "Remove Curse (Curse) (C)") |
+| 14   | Book of loose notes with a leather cover bound together with string (can cast as an M-U scroll: Invisibility of 10' Radius, Light/Darkness, Dispel Magic, Growth of Plants), a scroll containing Snake Charm and Remove Curse/Curse |
 | 18   | Leather armor, *Elven chainmail* (+2 against corporeal undead. +1 against other creatures), 2x spears, rusty sword (1d4), battered plate armor (still works fine), 3 +2 arrows                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 19   | Silver necklace (5gp), 4 rubies (50gp), 5 emeralds (10gp), 150gp, 50sp, *Clairaudience Potion*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 20   | 2 Black opal earrings (25gp each), red garnet necklace (60gp), silver hand mirror (90gp).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -47,54 +47,58 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 | 3    | The crumbling of toppling stone can be heard echoing in the distance.                                                                                                                                |
 | 4    | Rubble and dust fall from the ceiling. Save against poison or spend the next turn wheezing.                                                                                                          |
 | 5    | Roll 1d6:<br>1-3: [[Notable NPCs#The Cellar Rats\|Cellar Rats]] scavenging for treasure off dead student corpses.<br>4-6: 1d4 students (as lv. 1 adventurers) looking for treasure.                  |
-| 6    | 3d6 ***[[#The Pixies\|Pixies]]*** begin tailing and playing pranks on the party.                                                                                                                     |
-| 7    | Roll 1d6:<br>1-4: 2d4 ***[[#Giant Rats]]*** eating a corpse.<br>5-6: 1d6+1 ***[[#Wererats]]*** looking for recruits to join [[Faction Overview#The Moonlight Fellowship\|The Moonlight Fellowship]]. |
-| 8    | 2d4 ***[[#Inside-out Snakes]]*** looking for fresh meat.                                                                                                                                             |
-| 9    | 1d4+2 patrolling ***[[#Skeleton Guards]]*** attack on sight.                                                                                                                                         |
-| 10   | Roll 1d6:<br>1-3: 1d4 ***[[#Ghost Guards]]*** patrol and interrogate party.<br>4-6: an invisible ***[[#Poltergeist\|Poltergeists]]*** hurl stones at the party.                                      |
+| 6    | 3d6 ***[Pixies](#the-pixies)*** begin tailing and playing pranks on the party.                                                                                                                     |
+| 7    | Roll 1d6:<br>1-4: 2d4 ***[Giant Rats](#giant-rats)*** eating a corpse.<br>5-6: 1d6+1 ***[Wererats](#wererats)*** looking for recruits to join [[Faction Overview#The Moonlight Fellowship\|The Moonlight Fellowship]]. |
+| 8    | 2d4 ***[Inside-out Snakes](#inside-out-snakes)*** looking for fresh meat.                                                                                                                                             |
+| 9    | 1d4+2 patrolling ***[Skeleton Guards](#skeleton-guards)*** attack on sight.                                                                                                                                         |
+| 10   | Roll 1d6:<br>1-3: 1d4 ***[Ghost Guards](#ghost-guards)*** patrol and interrogate party.<br>4-6: an invisible ***[Poltergeist](#poltergeist)*** hurl stones at the party.                                      |
 
-#### Ghost Guards
-Wearing dark green padded gambesons. Wield swords.
-
-**Hit Dice:** 4***** **Armor:** 3 [16] **To-hit:** 16 [+3] 
-**Attack:** 1 x sword (1d6) or touch (energy drain)
-**Move:** 120’ (40’) / 180' (60') flying
-**Saves:** D10 W11 P12 B13 S14
-**Morale:** 12 **Alignment:** Neutral **XP:** 275
-
-- **Undead attributes**: completely *silent* until attacking. *Immunity*: spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
-- **Immunity**: non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
-- **Half damage**: from silvered weapons.
-- **Energy drain**: make an attack roll, a touched victim will incur a -1 penalty (cumulative) to all rolls (attacks, saves, and ability checks). A full night of sleep will remove all penalties.
-
----
-
-#### Giant Rats
-Fat. Gnawing. Hungry.
-
-**Hit Dice:** 1/2 **Armor:** 8 [11] **To-hit:** 19 [0]
-**Attack:** 1 × bite (1d4 + infection)
-**Move:** 120’ (40’)
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 7 **Alignment:** Neutral **XP:** 5
-
-- **Infection:** chance for infection if bitten: 1/6 (save against poison or become infected). If infected, there is a 1/4 chance of dying in 1d6 days or requiring a month of rest to recover from illness.
-- **Fears fire:** flees unless summoned by a leader (such as Wererat).
+{: .statblock }
+> #### Ghost Guards
+>
+>Wearing dark green padded gambesons. Wield swords.
+>
+> **Hit Dice:** 4***** **Armor:** 3 [16] **To-hit:** 16 [+3]<br> 
+> **Attack:** 1 x sword (1d6) or touch (energy drain)<br> 
+> **Move:** 120’ (40’) / 180' (60') flying<br> 
+> **Saves:** D10 W11 P12 B13 S14<br> 
+> **Morale:** 12 **Alignment:** Neutral **XP:** 275<br> 
+>
+> - **Undead attributes**: completely *silent* until attacking. *Immunity*: spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
+> - **Immunity**: non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
+> - **Half damage**: from silvered weapons.
+> - **Energy drain**: make an attack roll, a touched victim will incur a -1 penalty (cumulative) to all rolls (attacks, saves, and ability checks). A full night of sleep will remove all penalties.
 
 ---
 
-#### Wererats
-Humans that can change into half-human, half-rat form. Typically wield short swords or crossbows. See [[Lycanthropy]]. Most wererats will be members of [[Faction Overview#The Moonlight Fellowship|The Moonlight Fellowship]].
+{: .statblock }
+> #### Giant Rats
+> Fat. Gnawing. Hungry.
+> 
+> **Hit Dice:** 1/2 **Armor:** 8 [11] **To-hit:** 19 [0] <br>
+> **Attack:** 1 × bite (1d4 + infection) <br>
+> **Move:** 120’ (40’) <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 7 **Alignment:** Neutral **XP:** 5 <br>
+> 
+> - **Infection:** chance for infection if bitten: 1/6 (save against poison or become infected). If infected, there is a 1/4 chance of dying in 1d6 days or requiring a month of rest to recover from illness.
+> - **Fears fire:** flees unless summoned by a leader (such as Wererat).
 
-**Hit Dice:** 3* **Armor:** 6 [13] / 9 [10] (human form) **To-hit:** 17 [+2]
-**Attack:** 1 × bite (1d4 + curse) or 1 × dagger/crossbow (1d6) or 1 x *Summon*
-**Move:** 120’ (40’)
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 9 **Alignment:** Chaotic **XP:** 50
+---
 
-- **Immunity**: non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
-- **Summon:** can summon 1d2 [[#Giant Rats]] (arrive in 1d4 rounds).
-- **Curse**: if half or more hit points are lost from the bite, wererat lycanthropy will be contracted. See [[Lycanthropy]] for more information. 
+{: .statblock }
+> #### Wererats
+> Humans that can change into half-human, half-rat form. Typically wield short swords or crossbows. See [[Lycanthropy]]. Most wererats will be members of [[Faction Overview#The Moonlight Fellowship|The Moonlight Fellowship]]. <br>
+> 
+> **Hit Dice:** 3* **Armor:** 6 [13] / 9 [10] (human form) **To-hit:** 17 [+2] <br>
+> **Attack:** 1 × bite (1d4 + curse) or 1 × dagger/crossbow (1d6) or 1 x *Summon* <br>
+> **Move:** 120’ (40’) <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 9 **Alignment:** Chaotic **XP:** 50 <br>
+> 
+> - **Immunity**: non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
+> - **Summon:** can summon 1d2 [Giant Rats](#giant-rats) (arrive in 1d4 rounds).
+> - **Curse**: if half or more hit points are lost from the bite, wererat lycanthropy will be contracted. See [[Lycanthropy]] for more information. 
 
 ---
 
@@ -113,12 +117,12 @@ Humans that can change into half-human, half-rat form. Typically wield short swo
 - ***Ghost Guard*** ("Rodward", wearing old-fashioned dark green gambeson, standing guard). 
 - ***North*** Gentle waltz music echoes.
 
-#### Ghost Guard "Rodward"
-Guarded the old school entrance hundreds of years ago. Continues to guard the entrance today, and is unaware that any time has passed. Rodward will interrogate the party and only allow students, staff, and affiliated members to enter.
-
-‣ **Attempting to exit to Under-School with treasure:** Rodward will give one warning before attacking.
-
-‣ Stats as [[The Under-School Lv. 1#Ghost Guards|Ghost Guards]]
+> #### Ghost Guard "Rodward"
+> Guarded the old school entrance hundreds of years ago. Continues to guard the entrance today, and is unaware that any time has passed. Rodward will interrogate the party and only allow students, staff, and affiliated members to enter.
+>
+> ‣ **Attempting to exit to Under-School with treasure:** Rodward will give one warning before attacking.
+>
+> ‣ Stats as [Ghost Guards](#ghost-guards)
 
 ---
 
@@ -145,17 +149,18 @@ Guarded the old school entrance hundreds of years ago. Continues to guard the en
 
 ‣ **Investigating the vines:** discover a concealed wooden door.
 
-#### Undead Goldfish (Swarm)
-Glazed over eyes, pale, rotten flesh, bones protruding. Around 20 fish per shoal.
-
-**Hit Dice:** 1 (per swarm) **Armor:** 5 [14] **To-hit**: 19 [0]
-**Attack:** 1 × bite (3d4 + skin rot)
-**Move**: 120’ (40’) swim,
-**Saves:** D12 W13 P14 B15 S16
-**Morale**: 12 **Alignment:** Chaotic **XP:** 16
-
-- **Bite:** Automatic hit (no attack roll). Save against breath for 1/2 damage.
-- **Skin rot:** if bitten, necrotic rot sets in. Cannot be healed by magic, and healing through rest takes 10x longer. The disease can only be cured through magical means.
+{: .statblock}
+> #### Undead Goldfish (Swarm)
+> Glazed over eyes, pale, rotten flesh, bones protruding. Around 20 fish per shoal. <br>
+> 
+> **Hit Dice:** 1 (per swarm) **Armor:** 5 [14] **To-hit**: 19 [0] <br>
+> **Attack:** 1 × bite (3d4 + skin rot) <br>
+> **Move**: 120’ (40’) swim <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale**: 12 **Alignment:** Chaotic **XP:** 16 <br>
+> 
+> - **Bite:** Automatic hit (no attack roll). Save against breath for 1/2 damage.
+> - **Skin rot:** if bitten, necrotic rot sets in. Cannot be healed by magic, and healing through rest takes 10x longer. The disease can only be cured through magical means.
 
 ---
 
@@ -169,22 +174,23 @@ Glazed over eyes, pale, rotten flesh, bones protruding. Around 20 fish per shoal
 
 ‣ **Silk web sack**: Contains ***Vela***, a trapped student.
 
-#### Vela 
-Female student (*lv. 0*). Petite and daring. Ventured into the Under-School to study [[#The Pixies]] and got caught by a giant spider, which is saving her for its next warm and juicy meal.
-- **Knows:** the pixies are harmless if no ill intent is shown and their treasure is left alone.
-- **Speaks**, and is literate in Sylvan (pixie).
+> #### Vela 
+> Female student (*lv. 0*). Petite and daring. Ventured into the Under-School to study [The Pixies](#the-pixies) and got caught by a giant spider, which is saving her for its next warm and juicy meal.
+> - **Knows:** the pixies are harmless if no ill intent is shown and their treasure is left alone.
+> - **Speaks**, and is literate in Sylvan (pixie).
 
-#### Giant Spider
- 3' long. Dwells in the darkness, waiting for unsuspecting prey.
-
-**Hit Dice:** 2* **Armor:** 8 [11] **To-hit:** 18 [+1]
-**Attack:** 1 × bite (1d6 + poison)
-**Move:** 120’ (40’)
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 8 **Alignment:** Neutral **XP:** 25
-
-- **Venom:** save against poison (with a +2 bonus) or die in 1d4 turns.
-- **Web:** STR or DEX check to escape if stuck.
+{: .statblock }
+> #### Giant Spider
+>  3' long. Dwells in the darkness, waiting for unsuspecting prey.
+> 
+> **Hit Dice:** 2* **Armor:** 8 [11] **To-hit:** 18 [+1] <br>
+> **Attack:** 1 × bite (1d6 + poison) <br>
+> **Move:** 120’ (40’) <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 8 **Alignment:** Neutral **XP:** 25 <br>
+> 
+> - **Venom:** save against poison (with a +2 bonus) or die in 1d4 turns.
+> - **Web:** STR or DEX check to escape if stuck.
 
 ---
 
@@ -201,24 +207,25 @@ Female student (*lv. 0*). Petite and daring. Ventured into the Under-School to s
 - **Several smaller plants** (variety of shapes and sizes)
 - **Water drips** (through cracks in the ceiling, keeping soil hydrated)
 
- ‣ **Come within 10' of the planter:** 2 tentacles shoot out from the ***Thorny Bush*** and attempt to strangle to two characters (see [[#Thorny Bush]]).
+ ‣ **Come within 10' of the planter:** 2 tentacles shoot out from the ***Thorny Bush*** and attempt to strangle to two characters (see [Thorny Bush](#thorny-bush)).
 
 ‣ **The planter contains:** a few living magical herbs that will need to be identified by a specialist.
 - 1 *Fangweed:* rough leaves with soft thorns (fangs). Cures lycanthropy.
 - 1 *Palevine:* pale green vine. Works as *Cure Disease* cast at lv. 9. Alternatively, it prevents disease for 2d4 turns.
 - 1 *Aerwort:* if eaten, grants fly for 1d6 turns (+1 per level)
 
-#### Thorny Bush
-Thorny. Bushy. Evil.
-
-**Hit Dice:** 1 **Armor:** 9 [10] **To-hit:** 19 [0]
-**Attack:** 2 x tentacle (1d4 + strangle)
-**Move:** immobile
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 12 **Alignment:** Chaotic **XP:** 13
-
-- **Thorny Bush:** *Hit Dice:* 1. Hits against it land automatically (no attack roll required). **Tentacles**: *Hit Dice:* 1 *Armor:* 7 [12]
-- **Strangle:** Tentacle wraps around neck (save against paralysis to avoid). If strangled, die in 2d4 rounds unless the tentacles are severed or the plant is destroyed. Tentacles are severed automatically on hit.
+{: .statblock }
+> #### Thorny Bush
+> Thorny. Bushy. Evil.
+> 
+> **Hit Dice:** 1 **Armor:** 9 [10] **To-hit:** 19 [0] <br>
+> **Attack:** 2 x tentacle (1d4 + strangle) <br>
+> **Move:** immobile <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 12 **Alignment:** Chaotic **XP:** 13 <br>
+> 
+> - **Thorny Bush:** *Hit Dice:* 1. Hits against it land automatically (no attack roll required). **Tentacles**: *Hit Dice:* 1 *Armor:* 7 [12]
+> - **Strangle:** Tentacle wraps around neck (save against paralysis to avoid). If strangled, die in 2d4 rounds unless the tentacles are severed or the plant is destroyed. Tentacles are severed automatically on hit.
 
 ---
 
@@ -231,7 +238,7 @@ Thorny. Bushy. Evil.
 
 ‣ **The Cellar Rats**: (see [[Notable NPCs#The Cellar Rats|Cellar Rats]]) have turned the old wine cellar into their hideout. Present on first visit. 25% chance they will be present on subsequent visits, and 25% chance per turn they will arrive if not present. 
 - **Wants** to kill the pixies and steal their treasure. Also wants recruits to join their gang of petty crime.
-- **Knows:** about [[The Under-School Lv. 1#Samson|Samson]].
+- **Knows:** about [Samson](#samson).
 
 ‣ **Searching the wine casks:** most are empty. One has a removable face plate and contains stolen treasure inside: a silver choker with a woman's face engraved on it (75gp), a diamond-encrusted golden belt buckle (230gp), a false eye made from clear quartz(150gp), 500gp, 450sp, and 150cp.
 
@@ -246,7 +253,7 @@ Thorny. Bushy. Evil.
 
 ‣ **The moss:** if disturbed, releases spores in a 5' radius. 1d4 poison damage or save against poison for half damage. It is possible to pass underneath without disturbing if the players are careful.
 
-‣ **Looking through the window:** see the [[The Under-School Lv. 1#Samson|Samson]] in **Area 8** feasting on a corpse, crunching and chittering.
+‣ **Looking through the window:** see the [Samson](#samson) in **Area 8** feasting on a corpse, crunching and chittering.
 
 ---
 
@@ -259,17 +266,18 @@ Thorny. Bushy. Evil.
 
 ‣ **Searching the corpses:** find 2 silver daggers, a tiny golden halfling sword lined with emeralds (500gp), a pouch of moonstone (enough to power school wards for 1 month, worth 600gp total), 2 *Purple Honey Potions* (heal 1d4), a *Sleep Potion*, 250gp, and 75sp.
 
-#### Samson
-A grotesque, 6-foot-tall cockroach body with the head of a cat. Breathes fire. It was once a normal cat, but a half-succeeded resurrection attempt by Professor Chives mutated it into an abomination (see [[#Professor Chives and Samson]]).
-
-**Hit Dice:** 3* **Armor:** 5 [14] **To-hit:** 17 [+2]
-**Attack:** 2 × claw (1d3),  1 × bite (1d6) or 1 × breath (2d4)
-**Move:** 120’ (40’)
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 9 **Alignment:** Chaotic **XP:** 50
-
-- **Attack pattern:** 50% chance of breath attack instead of bite.
-- **Fire breath:** projects fire in the shape of a cone (30' long and 10' wide at the end). Save against breath for half damage.
+{: .statblock }
+> #### Samson
+> A grotesque, 6-foot-tall cockroach body with the head of a cat. Breathes fire. It was once a normal cat, but a half-succeeded resurrection attempt by Professor Chives mutated it into an abomination (see [Professor Chives and Samson](#professor-chives-and-samson)).
+> 
+> **Hit Dice:** 3* **Armor:** 5 [14] **To-hit:** 17 [+2] <br>
+> **Attack:** 2 × claw (1d3),  1 × bite (1d6) or 1 × breath (2d4) <br>
+> **Move:** 120’ (40’) <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 9 **Alignment:** Chaotic **XP:** 50 <br>
+> 
+> - **Attack pattern:** 50% chance of breath attack instead of bite.
+> - **Fire breath:** projects fire in the shape of a cone (30' long and 10' wide at the end). Save against breath for half damage.
 
 ---
 
@@ -342,7 +350,7 @@ This narrow stone table is actually a magical keyboard. There are 24 runes (keys
 #### Ghost Scholars
 Unaware of the party's presence, and will ignore any attempts made by the party to communicate. If the party attempts to touch them, they will not react. However, any attempt to harm the ghosts (i.e., silver or magic) or touching any of the dinnerware will cause the ghosts to become aware of their presence and become hostile.
 
-‣ **Stats:** As [[The Under-School Lv. 1#Ghost Guards|Ghost Guards]] without swords. Ghost Scholars will throw dishes and silverware (1d4 damage, roll to hit).
+‣ **Stats:** As [Ghost Guards](#ghost-guards) without swords. Ghost Scholars will throw dishes and silverware (1d4 damage, roll to hit).
 
 ‣ **Dinnerware value:** elven white-silver silverware: 10 sets (70gp per set), dwarven dinnerware elegantly carved from stone with gold ores swirled inside: 10 small plates (30gp each), 10 teacups (40gp), one small teapot (100gp).
 
@@ -358,7 +366,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - ***North:*** smell of spring flowers and fresh rain.
 - ***South:*** sounds of chatter and clinking silverware.
 
-‣ **Searching the tomes:** find a book of loose notes with a leather cover bound together with string. Cast as an M-U scroll: [Invisibility of 10' Radius](https://oldschoolessentials.necroticgnome.com/srd/index.php/Invisibility%2010%E2%80%99%20Radius), [Light (Darkness)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Light%20\(Darkness\)), [Dispel Magic](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dispel%20Magic), [Growth of Plants](https://oldschoolessentials.necroticgnome.com/srd/index.php/Growth%20of%20Plants), and a scroll containing [Snake Charm](https://oldschoolessentials.necroticgnome.com/srd/index.php/Snake_Charm "Snake Charm"), and [Remove Curse (Curse)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Remove_Curse_\(Curse\)_\(C\) "Remove Curse (Curse) (C)")
+‣ **Searching the tomes:** find a book of loose notes with a leather cover bound together with string. Cast as an M-U scroll: Invisibility of 10' Radius, Light (Darkness), Dispel Magic, Growth of Plants, and a scroll containing Snake Charm, and Remove Curse (Curse).
 
 ‣ **The corpse:** is a cultist. Wears a fake golden skull ring with painted-in blood under the eyes (worthless). Carries a notebook.
 
@@ -428,16 +436,17 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 
 ‣ **The training rack contains**: 2 spears, a rusty, blunt sword (does 1d4 damage), battered plate armor (unsightly, but still works fine), and 3 +2 arrows.
 
-#### Skeleton Guards
-Dressed in rotted, dark green padded gambesons.
-
-**Hit Dice:** 1 **Armor:** 6 [13] **To-hit:** 19 [0]
-**Attack:** 1 × sword (1d6)
-**Move:** 90’ (30’)
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 12 **Alignment:** Chaotic **XP:** 10
-
-- **Undead attributes**: completely *silent* until attacking. *Immunity*: spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
+{: .statblock }
+> #### Skeleton Guards
+> Dressed in rotted, dark green padded gambesons.
+> 
+> **Hit Dice:** 1 **Armor:** 6 [13] **To-hit:** 19 [0] <br>
+> **Attack:** 1 × sword (1d6) <br>
+> **Move:** 90’ (30’) <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 12 **Alignment:** Chaotic **XP:** 10 <br>
+> 
+> - **Undead attributes**: completely *silent* until attacking. *Immunity*: spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
 
 ---
 
@@ -463,17 +472,18 @@ Dressed in rotted, dark green padded gambesons.
 - **Vanity mirror** (no mirror, just the frame, sits on dresser).
 - ***Poltergeist*** (invisible, throws stones at anyone inside the room after 1 round). 
 
-#### Poltergeist
-A lost and confused spirit that haunts the old dorm room.
-
-**Hit Dice:** 3 **Armor:** 5 [14] **To-hit:** 17 [+2] 
-**Attack:** 2 x throw stone (1d4)
-**Move:** 6’ (20’) flying
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 10 **Alignment:** Chaotic **XP:** 50
-
-- **Undead attributes**: Completely silent until attacking. Immunity: poison, acid, or effects that harm living creatures, and spells affecting the brain, such as sleep, charm, or illusions.
-- **Invisible**: footsteps splash in puddles of water on the floor, giving position away. -4 to attack rolls against it.
+{: .statblock }
+> #### Poltergeist
+> A lost and confused spirit that haunts the old dorm room.
+> 
+> **Hit Dice:** 3 **Armor:** 5 [14] **To-hit:** 17 [+2] <br> 
+> **Attack:** 2 x throw stone (1d4) <br>
+> **Move:** 6’ (20’) flying <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 10 **Alignment:** Chaotic **XP:** 50 <br>
+> 
+> - **Undead attributes**: Completely silent until attacking. Immunity: poison, acid, or effects that harm living creatures, and spells affecting the brain, such as sleep, charm, or illusions.
+> - **Invisible**: footsteps splash in puddles of water on the floor, giving position away. -4 to attack rolls against it.
 
 #### Dresser
 
@@ -492,8 +502,8 @@ A lost and confused spirit that haunts the old dorm room.
 - **Glass bottles** (empty, broken).
 - **Ale casks** (wooden, rotted, and disintegrating).
 
-#### Gus the Dice Hustler
-A guard of the former school. Gus had a reputation for spending his days gambling. He will wager his *Ghost Sword* for a living human body in a game of dice. If Gus wins, he will possess one body immediately. If he loses, he will willingly hand over the sword. Stats as [[The Under-School Lv. 1#Ghost Guards|Ghost Guard]]. More than one character may play, increasing the odds of Gus losing. However, all participants must wager their bodies. If Gus wins against multiple participants, he will summon his other guard friends to inhabit the remaining bodies.
+> #### Gus the Dice Hustler
+> A guard of the former school. Gus had a reputation for spending his days gambling. He will wager his *Ghost Sword* for a living human body in a game of dice. If Gus wins, he will possess one > body immediately. If he loses, he will willingly hand over the sword. Stats as [Ghost Guards](#ghost-guards). More than one character may play, increasing the odds of Gus losing. However, all > participants must wager their bodies. If Gus wins against multiple participants, he will summon his other guard friends to inhabit the remaining bodies.
 
 ‣ **The Game Rules:** the first to score 100 points wins. Multiple players may join.
 - Each turn, a player rolls a die as many times as they like until they decide to "hold" or roll a "1".
@@ -528,18 +538,19 @@ A guard of the former school. Gus had a reputation for spending his days gamblin
 
 ‣ **Eating the mushrooms:** save vs poison or fall over laughing for a turn. Worth 1gp per mushroom coin, or 1sp if the mushroom is removed.
 
-#### The Pixies
-Curious 1' tall flying humanoids. Glow pink or green in the dark. Love to play harmless pranks (tying the victim's shoelaces together, filling their pockets with flowers, etc.). Generally playful and non-aggressive, but will pull out daggers and attack if their lives are threatened.
-
-‣ **Relationship to the Cellar Rats:** The Cellar Rats have made a couple of attempts to steal the Pixies' treasure, and they are now at war. When encountering the Pixies randomly or in their lair, they will attack if the party is with the Cellar Rats.
-
-**Hit Dice:** 1/2* **Armor:** 5 [14] **To-hit:** 19 [0]
-**Attack:** 1 × tiny dagger (1d4) or *Pixie Curse*
-**Move:** 60’ (20’) / 150’ (50’) flying
-**Saves:** D13 W13 P13 B14 S15
-**Morale:** 7 **Alignment:** Neutral **XP:** 6
-
-- **Pixie Curse**: a group of five pixies can cast a curse (no attack roll). Save against spells or suffer a comical cosmetic effect (grow permanent donkey ears, rabbit teeth, etc.).
+{: .statblock }
+> #### The Pixies
+> Curious 1' tall flying humanoids. Glow pink or green in the dark. Love to play harmless pranks (tying the victim's shoelaces together, filling their pockets with flowers, etc.). Generally playful and non-aggressive, but will pull out daggers and attack if their lives are threatened.
+> 
+> ‣ **Relationship to the Cellar Rats:** The Cellar Rats have made a couple of attempts to steal the Pixies' treasure, and they are now at war. When encountering the Pixies randomly or in their lair, they will attack if the party is with the Cellar Rats.
+> 
+> **Hit Dice:** 1/2* **Armor:** 5 [14] **To-hit:** 19 [0] <br>
+> **Attack:** 1 × tiny dagger (1d4) or *Pixie Curse* <br>
+> **Move:** 60’ (20’) / 150’ (50’) flying <br>
+> **Saves:** D13 W13 P13 B14 S15 <br>
+> **Morale:** 7 **Alignment:** Neutral **XP:** 6 <br>
+> 
+> - **Pixie Curse**: a group of five pixies can cast a curse (no attack roll). Save against spells or suffer a comical cosmetic effect (grow permanent donkey ears, rabbit teeth, etc.).
 
 ---
 
@@ -552,7 +563,7 @@ Curious 1' tall flying humanoids. Glow pink or green in the dark. Love to play h
 - ***East:*** rays of light peak through the ceiling and streak the halls.
 - ***South:*** Trails of molded books and parchment paper are strewn about the floor. Illegible.
 
-‣ **The Pixies:** See *[[#The Pixies]]* in **Area 22-a**. will attack if the party acts hostile toward them or attempts to steal anything in their lair.
+‣ **The Pixies:** See *[The Pixies](#the-pixies)* in **Area 22-a**. Will attack if the party acts hostile toward them or attempts to steal anything in their lair.
 
 ‣ **The drums:** very poor condition. Moldy and swollen with damp. Worth nothing to most intelligent creatures, but the pixies love them.
 
@@ -580,17 +591,18 @@ Slanted walls of crumbling rubble (steep, DEX check to climb). Broken stonework 
 
 ‣ **Traversing or falling into the bottom of the chasm:** 7 burrowed ***Inside-out Snakes*** come out from under the rubble, hungry.
 
-#### Inside-out Snakes
-Half the length of their body protrudes from their mouth. The opening of the "flesh tube" has teeth on it.
-
-**Hit Dice:** 1** **Armor:** 6 [13] **To-hit:** 19 [0]
-**Attack:** 1 × bite (1d4+acid) or burrow
-**Move:** 90’ (30’)
-**Saves:** D12 W13 P14 B15 S16
-**Morale:** 8 **Alignment:** Neutral **XP:** 16
-
-- **Acid:** 1d4 damage per round until acid is washed off.
-- **Burrow:** can burrow in dirt or stone, and travel underground at 1/4 speed.
+{: .statblock }
+> #### Inside-out Snakes
+> Half the length of their body protrudes from their mouth. The opening of the "flesh tube" has teeth on it.
+> 
+> **Hit Dice:** 1** **Armor:** 6 [13] **To-hit:** 19 [0] <br>
+> **Attack:** 1 × bite (1d4+acid) or burrow <br>
+> **Move:** 90’ (30’) <br>
+> **Saves:** D12 W13 P14 B15 S16 <br>
+> **Morale:** 8 **Alignment:** Neutral **XP:** 16 <br>
+> 
+> - **Acid:** 1d4 damage per round until acid is washed off.
+> - **Burrow:** can burrow in dirt or stone, and travel underground at 1/4 speed.
 
 ---
 
@@ -610,7 +622,7 @@ Half the length of their body protrudes from their mouth. The opening of the "fl
 ‣ **Search the clutter:** find diagrams of cockroach DNA, and various sketches of cockroach and cat anatomy. Search the clutter for 10 minutes and find: a *Bravery Potion* (immune to fear effects for 2d4 turns), a *Polymorph Potion* (works like M-U's Polymorph Self), 2 *Lv. 9 Cure Disease Potions* (equivalent to casting Cure Disease at lv. 9).
 
 #### Professor Chives and Samson
-Professor Chives had a beloved pet cat named Samson, who recently died of natural causes. Deeply saddened by Samson's death, Professor Chives desperately attempted to revive him by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [[The Under-School Lv. 1#8. (Monster) Samson|Samson]]). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know, the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night ([[Demon#The Cause of the Curse|The Cause of the Curse]]).
+Professor Chives had a beloved pet cat named Samson, who recently died of natural causes. Deeply saddened by Samson's death, Professor Chives desperately attempted to revive him by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [Samson](#8-samson)). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know, the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night ([[Demon#The Cause of the Curse|The Cause of the Curse]]).
 
 ‣ **On first visit:** Professor Chives will be present. 50% chance he will be present on subsequent visits, and 25% chance per turn he will arrive if not present. 
 
@@ -618,17 +630,18 @@ Professor Chives had a beloved pet cat named Samson, who recently died of natura
 
 ‣ **If the party killed Samson:** Professor Chives will lament the death of his pet, but will be grateful that the party has done what he could not and put Samson out of his misery.
 
-#### Professor Chives - *Lv. 5 Magic-User*
-**Appearance:** 60s, white frizzy hair, large spectacles.
-**Portrayal:** absentminded.
-**Hook:** loves his cat Samson more than anything.
-
-**Hit Points:** 9 **Armor:** 8 [11] (unarmored) **To-hit:** 19 [0]
-**Attack:** 1 × dagger (1d4) or spell
-**Move:** 120’ (40’)
-**Attributes:** STR 5 INT 15 WIS 10 DEX 13 CON 3 CHA 11
-**Saves:** D13 W14 P13 B16 S15
-**Morale:** 7 **Alignment:** Neutral
-
-- **Spells:** [Shield](https://oldschoolessentials.necroticgnome.com/srd/index.php/Shield), [Sleep](https://oldschoolessentials.necroticgnome.com/srd/index.php/Sleep), [Invisibility](https://oldschoolessentials.necroticgnome.com/srd/index.php/Invisibility), Continual Light, Fire Ball
-- **Items:** *[Growth Potion](https://oldschoolessentials.necroticgnome.com/srd/index.php/Potion%20of%20Growth)*, 2 *Purple Honey Potions*
+{: .statblock }
+> #### Professor Chives - *Lv. 5 M-U*
+> **Appearance:** 60s, white frizzy hair, large spectacles.
+> **Portrayal:** absentminded.
+> **Hook:** loves his cat Samson more than anything.
+> 
+> **Hit Points:** 9 **Armor:** 8 [11] (unarmored) **To-hit:** 19 [0]
+> **Attack:** 1 × dagger (1d4) or spell
+> **Move:** 120’ (40’)
+> **Attributes:** STR 5 INT 15 WIS 10 DEX 13 CON 3 CHA 11
+> **Saves:** D13 W14 P13 B16 S15
+> **Morale:** 7 **Alignment:** Neutral
+> 
+> - **Spells:** Shield, Sleep, Invisibility, Continual Light, Fire Ball
+> - **Items:** *Growth Potion*, 2 *Purple Honey Potions*

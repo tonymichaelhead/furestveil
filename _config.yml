@@ -11,3 +11,8 @@ color_scheme: dark
 
 # aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+callouts:
+  statblock:
+    color: purple
+    opacity: 0.04
