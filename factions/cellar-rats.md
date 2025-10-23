@@ -6,15 +6,15 @@ permalink: /factions/cellar-rats/
 ---
 
 ## The Cellar Rats
-Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [Wine Cellar]({% link the-under-school/level-1.md %}#6-wine-cellar) in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches. %% They dislike the Lawful Adventuring Party.  %%
+Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [Wine Cellar]({% link the-under-school/level-1.md %}#6-wine-cellar) in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches. <!-- They dislike the Lawful Adventuring Party. -->
 
 They seek to exterminate the pixies in the [Pixie Lair]({% link the-under-school/level-1.md %}#22-a-pixie-lair---room-1), steal their treasure, and secure the entire first level of the Under-School for their own, but require extra fighting power to do so.
 
 {: .statblock }
 > #### Gyleon Arnes - *Lv. 1 Fighter*
-> **Appearance:** Round face, stocky.
-> **Portrayal:** Leader of the Cellar Rats. Mean-spirited. Needs to always be right and for others to constantly affirm that to him.
-> **Hook:** Has an older brother who is a knight, and has felt overshadowed by him his whole life. Gyleon is determined to prove his worth by any means possible.
+> **Appearance:** Round face, stocky. <br>
+> **Portrayal:** Leader of the Cellar Rats. Mean-spirited. Needs to always be right and for others to constantly affirm that to him. <br>
+> **Hook:** Has an older brother who is a knight, and has felt overshadowed by him his whole life. Gyleon is determined to prove his worth by any means possible. <br>
 > 
 > **Hit Points:** 8 **Armor:** 8 [11] (leather armor) **To-hit:** 19 [0] <br>
 > **Attack:** 1 × battle axe (1d8) <br>
@@ -28,9 +28,9 @@ They seek to exterminate the pixies in the [Pixie Lair]({% link the-under-school
 
 {: .statblock }
 > ##### Ren Riddler - *Lv. 1 Thief*
-> **Appearance:** Curly, moppy hair, baggy clothes.
-> **Portrayal:** Calculated, detail-oriented, and smooth, calm demeanor.
-> **Hook:** Talented in the thieving arts and can't really find anywhere else to fit in. Ren has fallen in with the wrong lot and feels conflicted, but the validation of his skills and worth keeps him there.
+> **Appearance:** Curly, moppy hair, baggy clothes. <br>
+> **Portrayal:** Calculated, detail-oriented, and smooth, calm demeanor. <br>
+> **Hook:** Talented in the thieving arts and can't really find anywhere else to fit in. Ren has fallen in with the wrong lot and feels conflicted, but the validation of his skills and worth keeps him there. <br>
 > 
 > **Hit Points:** 2 **Armor:** 5 [14] (leather armor) **To-hit:** 19 [0] <br>
 > **Attack:** 1 × javelin (1d4) <br>
@@ -43,9 +43,9 @@ They seek to exterminate the pixies in the [Pixie Lair]({% link the-under-school
 
 {: .statblock }
 > ##### Leda - *Lv. 1 Halfling*
-> **Appearance:** Bandana, large gold hoops, muscular arms with rolled up sleeves.
-> **Portrayal:** Quick temper, violent, likes to brawl.
-> **Hook:** Was outcast from her halfling village for starting too many fights and causing a ruckus. Knows that Elwin Aerridale is a vampire.
+> **Appearance:** Bandana, large gold hoops, muscular arms with rolled up sleeves. <br>
+> **Portrayal:** Quick temper, violent, likes to brawl. <br>
+> **Hook:** Was outcast from her halfling village for starting too many fights and causing a ruckus. Knows that Elwin Aerridale is a vampire. <br>
 > 
 > **Hit Points:** 3 **Armor:** 3 [16] (chainmail + shield) **To-hit:** 19 [0] <br>
 > **Attack:** 1 × javelin (1d4) <br>
@@ -60,9 +60,9 @@ They seek to exterminate the pixies in the [Pixie Lair]({% link the-under-school
 
 {: .statblock }
 > ##### Elwin Aerridale - *Lv. 1 Elf*
-> **Appearance:** Tall, slender, handsome, pallid. 
-> **Portrayal:** Mysterious, dark, charming, cocky.
-> **Hook:** Elwin is secretly a vampire. He feeds on students around the school, typically not killing his prey, although not opposed to it. Leda alone knows his secret.
+> **Appearance:** Tall, slender, handsome, pallid.  <br>
+> **Portrayal:** Mysterious, dark, charming, cocky. <br>
+> **Hook:** Elwin is secretly a vampire. He feeds on students around the school, typically not killing his prey, although not opposed to it. Leda alone knows his secret. <br>
 > 
 > **Hit Points:** 7 **Armor:** 6 [13] (chainmail) **To-hit:** 19 [0] <br>
 > **Attack:** 1 × polearm (1d10) or 1 × spell <br>
