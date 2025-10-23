@@ -46,7 +46,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 | 2    | A stream of water begins gushing from a tiny hole in the wall.                                                                                                                                       |
 | 3    | The crumbling of toppling stone can be heard echoing in the distance.                                                                                                                                |
 | 4    | Rubble and dust fall from the ceiling. Save against poison or spend the next turn wheezing.                                                                                                          |
-| 5    | Roll 1d6:<br>1-3: [[Notable NPCs#The Cellar Rats\|Cellar Rats]] scavenging for treasure off dead student corpses.<br>4-6: 1d4 students (as lv. 1 adventurers) looking for treasure.                  |
+| 5    | Roll 1d6:<br>1-3: [The Cellar Rats]({% link factions/cellar-rats.md %}) scavenging for treasure off dead student corpses.<br>4-6: 1d4 students (as lv. 1 adventurers) looking for treasure.                  |
 | 6    | 3d6 ***[Pixies](#the-pixies)*** begin tailing and playing pranks on the party.                                                                                                                     |
 | 7    | Roll 1d6:<br>1-4: 2d4 ***[Giant Rats](#giant-rats)*** eating a corpse.<br>5-6: 1d6+1 ***[Wererats](#wererats)*** looking for recruits to join [[Faction Overview#The Moonlight Fellowship\|The Moonlight Fellowship]]. |
 | 8    | 2d4 ***[Inside-out Snakes](#inside-out-snakes)*** looking for fresh meat.                                                                                                                                             |
@@ -236,7 +236,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 - **Dilapidated furniture** (moldy wooden chairs and sofa, holes in the fabric).
 - **Green curtain hanging on south wall** (patched and moth-ridden, "Fürestveil University" embroidered in silver thread). 
 
-‣ **The Cellar Rats**: (see [[Notable NPCs#The Cellar Rats|Cellar Rats]]) have turned the old wine cellar into their hideout. Present on first visit. 25% chance they will be present on subsequent visits, and 25% chance per turn they will arrive if not present. 
+‣ **The Cellar Rats**: (see [The Cellar Rats]({% link factions/cellar-rats.md %})) have turned the old wine cellar into their hideout. Present on first visit. 25% chance they will be present on subsequent visits, and 25% chance per turn they will arrive if not present. 
 - **Wants** to kill the pixies and steal their treasure. Also wants recruits to join their gang of petty crime.
 - **Knows:** about [Samson](#samson).
 

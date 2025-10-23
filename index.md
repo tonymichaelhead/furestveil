@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 **WELCOME TO FÜRESTVEIL UNIVERSITY** - A university for adventurers nestled deep in the heart of the Fürestveil Woods. A place for fighters, thieves, and spellcasters alike to adventure, study, and solve the mysteries of a 1000-year-old castle!
