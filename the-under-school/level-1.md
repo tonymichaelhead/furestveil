@@ -38,17 +38,17 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 
 ## Encounters
 
-1/6 chance of encounter per turn. Distance 2d6x10'.
+1:6 chance for encounter every other turn. Distance: 2d6x10'.
 
 | 1d10 | Encounter                                                                                                                                                                                            |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | The tantalizing aroma of spring flowers suddenly fills the air.                                                                                                                                      |
 | 2    | A stream of water begins gushing from a tiny hole in the wall.                                                                                                                                       |
-| 3    | The crumbling of toppling stone can be heard echoing in the distance.                                                                                                                                |
+| 3    | The crumbling of stone can be heard echoing in the distance.                                                                                                                                |
 | 4    | Rubble and dust fall from the ceiling. Save against poison or spend the next turn wheezing.                                                                                                          |
 | 5    | Roll 1d6:<br>1-3: [The Cellar Rats]({% link factions/cellar-rats.md %}) scavenging for treasure off dead student corpses.<br>4-6: 1d4 students (as lv. 1 adventurers) looking for treasure.                  |
 | 6    | 3d6 ***[Pixies](#the-pixies)*** begin tailing and playing pranks on the party.                                                                                                                     |
-| 7    | Roll 1d6:<br>1-4: 2d4 ***[Giant Rats](#giant-rats)*** eating a corpse.<br>5-6: 1d6+1 ***[Wererats](#wererats)*** looking for recruits to join [[Faction Overview#The Moonlight Fellowship\|The Moonlight Fellowship]]. |
+| 7    | Roll 1d6:<br>1-4: 2d4 ***[Giant Rats](#giant-rats)*** eating a corpse.<br>5-6: 1d6+1 ***[Wererats](#wererats)*** looking for recruits to join [The Moonlight Fellowship]({% link factions/overview.md %}#the-moonlight-fellowship). |
 | 8    | 2d4 ***[Inside-out Snakes](#inside-out-snakes)*** looking for fresh meat.                                                                                                                                             |
 | 9    | 1d4+2 patrolling ***[Skeleton Guards](#skeleton-guards)*** attack on sight.                                                                                                                                         |
 | 10   | Roll 1d6:<br>1-3: 1d4 ***[Ghost Guards](#ghost-guards)*** patrol and interrogate party.<br>4-6: an invisible ***[Poltergeist](#poltergeist)*** hurl stones at the party.                                      |
@@ -88,7 +88,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 
 {: .statblock }
 > #### Wererats
-> Humans that can change into half-human, half-rat form. Typically wield short swords or crossbows. See [[Lycanthropy]]. Most wererats will be members of [[Faction Overview#The Moonlight Fellowship|The Moonlight Fellowship]]. <br>
+> Humans that can change into half-human, half-rat form. Typically wield short swords or crossbows.<!-- See [[Lycanthropy]]. --> Most wererats will be members of [The Moonlight Fellowship]({% link factions/overview.md %}#the-moonlight-fellowship). <br>
 > 
 > **Hit Dice:** 3* **Armor:** 6 [13] / 9 [10] (human form) **To-hit:** 17 [+2] <br>
 > **Attack:** 1 × bite (1d4 + curse) or 1 × dagger/crossbow (1d6) or 1 x *Summon* <br>
@@ -98,7 +98,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 > 
 > - **Immunity**: non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
 > - **Summon:** can summon 1d2 [Giant Rats](#giant-rats) (arrive in 1d4 rounds).
-> - **Curse**: if half or more hit points are lost from the bite, wererat lycanthropy will be contracted. See [[Lycanthropy]] for more information. 
+> - **Curse**: if half or more hit points are lost from the bite, wererat lycanthropy will be contracted.<!-- See [[Lycanthropy]] for more information. --> 
 
 ---
 
@@ -174,6 +174,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 
 ‣ **Silk web sack**: Contains ***Vela***, a trapped student.
 
+{: .statblock }
 > #### Vela 
 > Female student (*lv. 0*). Petite and daring. Ventured into the Under-School to study [The Pixies](#the-pixies) and got caught by a giant spider, which is saving her for its next warm and juicy meal.
 > - **Knows:** the pixies are harmless if no ill intent is shown and their treasure is left alone.
@@ -503,7 +504,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - **Ale casks** (wooden, rotted, and disintegrating).
 
 > #### Gus the Dice Hustler
-> A guard of the former school. Gus had a reputation for spending his days gambling. He will wager his *Ghost Sword* for a living human body in a game of dice. If Gus wins, he will possess one > body immediately. If he loses, he will willingly hand over the sword. Stats as [Ghost Guards](#ghost-guards). More than one character may play, increasing the odds of Gus losing. However, all > participants must wager their bodies. If Gus wins against multiple participants, he will summon his other guard friends to inhabit the remaining bodies.
+> A guard of the former school. Gus had a reputation for spending his days gambling. He will wager his *Ghost Sword* for a living human body in a game of dice. If Gus wins, he will possess one body immediately. If he loses, he will willingly hand over the sword. Stats as [Ghost Guards](#ghost-guards). More than one character may play, increasing the odds of Gus losing. However, all participants must wager their bodies. If Gus wins against multiple participants, he will summon his other guard friends to inhabit the remaining bodies.
 
 ‣ **The Game Rules:** the first to score 100 points wins. Multiple players may join.
 - Each turn, a player rolls a die as many times as they like until they decide to "hold" or roll a "1".
@@ -534,7 +535,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 
 ‣ **The skeletons:** inanimate. One of them wears chainmail with dense flowers and vines weaving through the chain. Worthless as armor but worth 500gp.
 
-‣ **The wooden chest:** unlocked, but vines must be cut away to open. Contains: silver crown with flowers sprouting out of it (250gp), 15 gold-plated squirrel skulls (antique Bloodthorn currency, 50gp per skull). 500 silver coins, each with a mushroom growing out of it.
+‣ **The wooden chest:** unlocked, but vines must be cut away to open. Contains: silver crown with flowers sprouting out of it (250gp), 15 gold-plated squirrel skulls (<!-- antique Bloodthorn currency, -->50gp per skull). 500 silver coins, each with a mushroom growing out of it.
 
 ‣ **Eating the mushrooms:** save vs poison or fall over laughing for a turn. Worth 1gp per mushroom coin, or 1sp if the mushroom is removed.
 
@@ -617,12 +618,13 @@ Slanted walls of crumbling rubble (steep, DEX check to climb). Broken stonework 
 
 ‣ **The stairs:** lead up to a long, torch-lit corridor. At the end of the corridor is a stone door that opens into Professor Chives' chambers. The other side of the door is concealed in Professor Chives' chambers.
 
-‣ **The Glass Alembic:** is in fact, the *Cursed Alembic*. See [[Demon#The Cause of the Curse|The Cause of the Curse]]. Breaking the alembic or removing the curse instantly releases the [[Demon#Demon|Demon]] (with weakened stats).
+‣ **The Glass Alembic:** is in fact, the *Cursed Alembic*. See below.
+<!-- See [[Demon#The Cause of the Curse|The Cause of the Curse]]. Breaking the alembic or removing the curse instantly releases the [[Demon#Demon|Demon]] (with weakened stats). -->
 
 ‣ **Search the clutter:** find diagrams of cockroach DNA, and various sketches of cockroach and cat anatomy. Search the clutter for 10 minutes and find: a *Bravery Potion* (immune to fear effects for 2d4 turns), a *Polymorph Potion* (works like M-U's Polymorph Self), 2 *Lv. 9 Cure Disease Potions* (equivalent to casting Cure Disease at lv. 9).
 
 #### Professor Chives and Samson
-Professor Chives had a beloved pet cat named Samson, who recently died of natural causes. Deeply saddened by Samson's death, Professor Chives desperately attempted to revive him by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [Samson](#8-samson)). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know, the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night ([[Demon#The Cause of the Curse|The Cause of the Curse]]).
+Professor Chives had a beloved pet cat named Samson, who recently died of natural causes. Deeply saddened by Samson's death, Professor Chives desperately attempted to revive him by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [Samson](#8-samson)). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know, the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night<!-- ([[Demon#The Cause of the Curse|The Cause of the Curse]]) -->.
 
 ‣ **On first visit:** Professor Chives will be present. 50% chance he will be present on subsequent visits, and 25% chance per turn he will arrive if not present. 
 

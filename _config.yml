@@ -7,12 +7,12 @@ url: https://furestveil.com
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo.png"
 
-color_scheme: dark
+color_scheme: dark_custom
 
 # aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 callouts:
   statblock:
-    color: purple
-    opacity: 0.04
+    color: green
+    opacity: 0.01
