@@ -312,6 +312,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 ### 11. Drawing Room
 *Smell of moldy cotton and wood furniture.*
 - **Lounge chairs** (appear once very comfortable and luxurious, now rotten and dilapidated).
+- **plain green rug** (in front of one of the chairs).
 - **Painting** (west wall, 10' long, 7' tall, silver frame).
 
 ‣ **The painting:** depicts the inside of the school Observatory long ago. In the scene, people stand inside the Observatory. There are glowing runes on the wall, and the ceiling appears to be an open night sky with stars and planets. The painting is magically animated.
@@ -527,7 +528,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - ***East:*** more laughter. Small, soft pink and green glowing lights flying around in the distance.
 - ***West:*** **wooden door** (covered in flowers and vines).
 
- ‣ **Investigating the door**: "Alchemy Lab" written in common
+ ‣ **Investigating the western door**: "Alchemy Lab" written in common
 
 #### The Pixie Treasure
 
