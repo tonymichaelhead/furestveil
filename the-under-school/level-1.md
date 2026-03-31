@@ -9,34 +9,49 @@ permalink: /the-under-school/level-1
 
 ## Background
 
-Beneath Fürestveil University are the ruins of the former school castle that fell 300 years ago in the Great War. The current school has been built on top of the ruins, but remnants of the former school, known as the "Under-School", lie below, partially intact. Brave students and adventurers alike visit the Under-School to uncover the mysteries of this 1000-year-old institution, and to fill their pockets with relics and treasure as a rite of passage. Occasionally, they return with pockets full of gold and stories to tell.
-
-### The Vibe
 *Pointed archways, vaulted ceilings, crumbled limestone walls overgrown with moss, water dripping from walls and ceiling, toppled pillars, and collapsed stonework.*
 
+Beneath Fürestveil University are the ruins of the former school castle that fell 300 years ago in the Great War. The current school has been built on top of the ruins, but remnants of the former school, known as the "Under-School", lie below, partially intact. Brave students and adventurers alike visit the Under-School to uncover the mysteries of this 1000-year-old institution, and to fill their pockets with relics and treasure as a rite of passage. Occasionally, they return with pockets full of gold and stories to tell.
+
+---
 ### The Adventure
-A horrific demon stalks the halls of Fürestveil University at night, liquefying students with a single gaze and devouring their insides. Headmaster Sterling has offered the party 5000gp to expunge the demon from the school. Rumor has it that the demon is tethered to a cursed piece of alchemy equipment, an *alembic*, which lies somewhere in the Under-School.
+A horrific demon stalks the halls of Fürestveil University at night, liquefying students with a single gaze and devouring their innards. Headmaster Sterling has offered the party 5000gp to expunge the demon from the school. Rumor has it that the demon is tethered to a cursed piece of alchemy equipment, an *alembic*, which lies [[#25. Alchemy Lab|somewhere]] in the Under-School.
 
-### Treasure Table
-**Total Treasure Worth:** 11,497.5gp (5000gp difficult to remove)
+Alternatively, GM may use the following ideas as a starting point to get their players interested in exploring the Under-School:
+- [Vela](#vela), a first-year student, went into the Under-School to explore and hasn't returned. Her parents are loaded and would surely offer a reward for her safe return.
+- An unsavory contact requests the party to find the enchanted *Elowa's Whistle*, which is rumored to be hidden somewhere in the Under-School. See "Elowa's Whistle" in [[#12. Music Room|Area 12 - "Music Room"]].
+- At the behest of a living descendant, the party must bring a memento to their ancestor's ghost in the Under-School. The memento will bring the spirit to rest. (The GM is free to create the details.)
 
-| Area | Treasure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5    | *Fangweed* (cures lycanthropy), *Palevine* (cure or prevent disease for 2d4 turns), *Aerwort* (fly 1d6 turns + 1 per level)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 6    | Silver choker with women's face engraved on it (75gp), diamond encrusted golden belt buckle (230gp), false eye made from clear quartz (150gp), 500gp, 450sp, 150cp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 8    | 2 silver daggers, small golden sword with emeralds (500gp), pouch of moonstone (600gp), 2 *Purple Honey Potions*, *Sleep Potion*, 250gp, 75sp                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 11   | Painting with silver frame (5000gp) - difficult for low-level characters to remove, worth only 1000gp if dismantled                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 12   | *Pixie Whistle* (charms pixies), antique silver harp (250gp), dwarven drum (200gp) and drum sticks (75gp for the pair)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 13   | Elven white-silver silverware: 10 sets (70gp per set), dwarven dinnerware elegantly carved from stone with gold ores swirled inside: 10 small plates (30gp each), 10 teacups (40gp each), one small teapot (100gp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 14   | Book of loose notes with a leather cover bound together with string (can cast as an M-U scroll: Invisibility of 10' Radius, Light/Darkness, Dispel Magic, Growth of Plants), a scroll containing Snake Charm and Remove Curse/Curse |
-| 18   | Leather armor, *Elven chainmail* (+2 against corporeal undead. +1 against other creatures), 2x spears, rusty sword (1d4), battered plate armor (still works fine), 3 +2 arrows                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 19   | Silver necklace (5gp), 4 rubies (50gp), 5 emeralds (10gp), 150gp, 50sp, *Clairaudience Potion*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 20   | 2 Black opal earrings (25gp each), red garnet necklace (60gp), silver hand mirror (90gp).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 21   | *Ghost Sword* (silver sword, +2 to incorporeal spirits and they become visible while wielding the sword. +1 to non-incorporeal spirits)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 22   | Silver flower crown (250gp), 15 gold-plated squirrel skulls (50gp per skull). 500 silver coins (mushroom growing out of each coin)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 23   | *Bravery Potion* (immune to fear for 2d4 turns), *Polymorph Potion* (M-U's Polymorph Self), 2 *Lv. 9 Cure Disease Potions* (Cure Disease cast at lv. 9)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+---
+### Factions
+#### The Pixies
+Relatively peaceful winged folk who have made their home in the Under-School. Although non-violent, they will seek to drive out the Cellar Rats (see below) due to several past attempts to harm them and their home. The pixies are neutral toward the party unless the party is seen alongside the Cellar Rats. They will work with the party to drive out the miscreants and achieve total peace, so they can joyously carry out their lives of harmless mischief, music, and laughter.
 
-## Encounters
+#### The Cellar Rats
+Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [[The Under-School Lv. 1#6. Wine Cellar|Wine Cellar]] in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches.
+
+They seek to exterminate the pixies in the [[The Under-School Lv. 1#22-a. Pixie Lair - Room 1|Pixie Lair]], steal their treasure, and secure the entire first level of the Under-School for their own, but require extra fighting power to do so.
+
+Full NPC descriptions [[Notable NPCs#The Cellar Rats|here]].
+
+#### Ghosts of the Past
+The first level of the Under-School is inhabited by several ghosts. These students and faculty fell victim to the Great War hundreds of years ago, and most are unaware that they have long been dead, continuing to carry out their daily lives as usual. Clever parties may bargain for their help with various tasks. Attempting to reveal the truth, that centuries have passed and they are long deceased, will almost certainly provoke confusion and hostility unless great care is taken.
+
+---
+### Rumors
+
+| 1d6 | Rumors                                                                                                                                    |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Feed the terrible cat-headed monster raw fish, and it'll leave you alone. (F)                                                             |
+| 2   | A statue of a blind woman materializes gold from thin air. (P)                                                                            |
+| 3   | The gambling ghost offers a precious weapon if you beat him in his game. Fail, and lose your soul. (P)                                    |
+| 4   | Ghosts that inhabit the Under-School are remnants of the Great War. They are unaware that they themselves fell hundreds of years ago. (T) |
+| 5   | Some ghosts in the Under-School are friendly. Others, not so much. (T)                                                                    |
+| 6   | There is a room that is protected by angels. Monsters and hostile spirits are unable to enter it. (P)                                     |
+
+---
+
+### Encounters
 
 1:6 chance for encounter every other turn. Distance: 2d6x10'.
 
@@ -290,7 +305,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 - ***West:*** **wooden door** (plain, unmarked).
 - ***East:*** **wooden door** (faded mural of a battle scene).
 
-‣ **Drinking the water:** +1 on all ability rolls for the rest of the day. Limit once a day per character.
+‣ **Drinking the water:** +1 on all ability rolls for the rest of the day. Limit once a day per character. Bathing in the water (rather than drinking it) has the same effect.
 
 ‣ **Resting in this room:** Safe zone (no random encounters). There are ancient wards that keep monsters away. Do not reveal this to players! Clever players who figure this out may camp here.
 
@@ -334,9 +349,15 @@ This narrow stone table is actually a magical keyboard. There are 24 runes (keys
 ‣ **Playing the sheet music:** INT check to read and DEX check to play (taking one turn total). If read and played correctly, the seal on the stone closet is broken, and the door opens. Failed attempts may be repeated at the expense of time.
 
 #### Stone Closet
-‣ **Contains:** a *Pixie Whistle*, a small antique silver harp (250gp), dwarven wooden drum (200gp), drumsticks with hides stretched over the tips (75gp for the pair).
+‣ **Contains:** *Elowa's Whistle*, a small antique silver harp (250gp), a dwarven wooden drum (200gp), and drumsticks with hides stretched over the tips (75gp for the pair).
 
-‣ ***Pixie Whistle***: a small, wooden, enchanted whistle. When blowing the Pixie Whistle, pixies within a 120' radius become instantly charmed (no save). The effects are similar to *Charm Person*, except the enchantment wears off after 1 week (but can be reapplied with another whistle blow). The owner of this whistle becomes a target, as fae creatures will be drawn to its magic and will seek to take it for their own gain.
+‣ ***Elowa's Whistle***: a small wooden whistle that charms pixies within a 120' radius (no save). The effect lasts for one week, after which it may be reapplied with another blow. Pixies are charmed as per *Charm Person*. The whistle exudes a powerful magic aura and may make the owner a target for powerful fae creatures who want the item for themselves.
+
+**Charmed Pixie Behavior:** unreliable and mischievous:
+- They will follow basic orders but quickly grow bored.
+- They may play pranks, dance, chant, or graffiti walls.
+- Their attempts to "help" problems might make things worse.
+- They are non-violent unless the charmer or they themselves are threatened.
 
 ---
 
@@ -564,12 +585,15 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - ***West:*** more laughter. Small, soft pink and green glowing lights flying around in the distance.
 - ***East:*** rays of light peak through the ceiling and streak the halls.
 - ***South:*** Trails of molded books and parchment paper are strewn about the floor. Illegible.
+- **North:** See note on *Northern Stairs* below.
 
 ‣ **The Pixies:** See *[The Pixies](#the-pixies)* in **Area 22-a**. Will attack if the party acts hostile toward them or attempts to steal anything in their lair.
 
 ‣ **The drums:** very poor condition. Moldy and swollen with damp. Worth nothing to most intelligent creatures, but the pixies love them.
 
 ‣ **Playing the drums:** excites the pixies. They will dance and fly around with glee, magically warping the sound waves to make the drumbeats melodic. The drumbeat vibrations become a multitude of colorful waves in the air.
+
+‣ **Northern Stairs:** Leads to level 2 of the dungeon. Level 2 is currently being edited and will be uploaded soon. For now the DM may wish to place something else here, obstruct the entrance for later use, or omit it entirely.
 
 ---
 
@@ -648,3 +672,31 @@ Professor Chives had a beloved pet cat named Samson, who recently died of natura
 > 
 > - **Spells:** Shield, Sleep, Invisibility, Continual Light, Fire Ball
 > - **Items:** *Growth Potion*, 2 *Purple Honey Potions*
+
+---
+
+{: .statblock }
+> #### Demon
+>
+>Humanoid with mosquito-like head, huge round eyes, and a long proboscis. Large knife-like claws nearly reach the floor. Stench of death. The demon will typically *screech* and then *gaze* in subsequent rounds. If the creature is not being attacked, i.e., PCs are running and there is a liquefied body, the creature will stop to consume the body and not chase the PCs.
+>
+> **Hit Dice:** 9**** **Armor:** 3 [16] **To-hit:** 12 [+7]<br>
+> **Attack:** 2 x claws (1d8), screech or gaze<br>
+> **Move:** 120’ (40’)<br>
+> **Saves:** D8 W9 P10 B10 S12<br>
+> **Morale:** 12 **Alignment:** Chaotic **XP:** 3700<br>
+>
+> - **Immunity**: spells that harm the living (poison, acid), mind-affecting magic (sleep, charm, illusion), and non-magical weapons. Can only be harmed by magic or silver.
+> - **Claws:** disease infected. If hit, save vs poison or die in 1d4 days unless cured by high level cleric (lv. 11 or higher).
+> - **Screech:** blood curdling. Anyone within 120' radius must save vs spells or fall on the ground screaming in pain and terror for 1d4 rounds before attempting to flee.
+> - **Gaze:** Save vs paralysis or internal body (everything but skin) liquefies; victim remains alive. This effect is permanent. Avoided by averting eyes or using a mirror (as per basilisk). Demon will devour the insides of a liquefied victim, leaving the skin behind. _Flesh to stone_ (11th-level MU or higher) reverses the effect.
+
+#### Breaking the alembic
+ If the alembic is broken (simply breaking the glass will do), the demon will immediately appear. It can no longer teleport to the demon world, effectively becoming mortal.
+
+‣ **Reduced Stats:** breaking the alembic significantly weakens the demon:
+- Reduced to 4 HD (Armor: 3 [16], To-hit: 16 [+3], D10 W11 P12 B13 S14).
+- Claws reduced to 1d4 damage.
+- Save against shriek, liquefy, and disease with a +4 bonus.
+- Disease is easily curable with Cure Disease (any level).
+- Cannot teleport to escape or heal.
