@@ -19,7 +19,7 @@ A horrific demon stalks the halls of Fürestveil University at night, liquefying
 
 Alternatively, GM may use the following ideas as a starting point to get their players interested in exploring the Under-School:
 - [Vela](#vela), a first-year student, went into the Under-School to explore and hasn't returned. Her parents are loaded and would surely offer a reward for her safe return.
-- An unsavory contact requests the party to find the enchanted *Elowa's Whistle*, which is rumored to be hidden somewhere in the Under-School. See "Elowa's Whistle" in [[#12. Music Room|Area 12 - "Music Room"]].
+- An unsavory contact requests the party to find the enchanted *Elowa's Whistle*, which is rumored to be hidden somewhere in the Under-School. See "Elowa's Whistle" in [Area 12 - "Music Room"](#12-music-room).
 - At the behest of a living descendant, the party must bring a memento to their ancestor's ghost in the Under-School. The memento will bring the spirit to rest. (The GM is free to create the details.)
 
 ---
@@ -28,11 +28,11 @@ Alternatively, GM may use the following ideas as a starting point to get their p
 Relatively peaceful winged folk who have made their home in the Under-School. Although non-violent, they will seek to drive out the Cellar Rats (see below) due to several past attempts to harm them and their home. The pixies are neutral toward the party unless the party is seen alongside the Cellar Rats. They will work with the party to drive out the miscreants and achieve total peace, so they can joyously carry out their lives of harmless mischief, music, and laughter.
 
 #### The Cellar Rats
-Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [[The Under-School Lv. 1#6. Wine Cellar|Wine Cellar]] in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches.
+Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [Wine Cellar](#6-wine-cellar) in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches.
 
-They seek to exterminate the pixies in the [[The Under-School Lv. 1#22-a. Pixie Lair - Room 1|Pixie Lair]], steal their treasure, and secure the entire first level of the Under-School for their own, but require extra fighting power to do so.
+They seek to exterminate the pixies in the [Pixie Lair](#22-a-pixie-lair---room-1), steal their treasure, and secure the entire first level of the Under-School for their own, but require extra fighting power to do so.
 
-Full NPC descriptions [[Notable NPCs#The Cellar Rats|here]].
+Full NPC descriptions [here]({% link factions/cellar-rats.md %}).
 
 #### Ghosts of the Past
 The first level of the Under-School is inhabited by several ghosts. These students and faculty fell victim to the Great War hundreds of years ago, and most are unaware that they have long been dead, continuing to carry out their daily lives as usual. Clever parties may bargain for their help with various tasks. Attempting to reveal the truth, that centuries have passed and they are long deceased, will almost certainly provoke confusion and hostility unless great care is taken.
@@ -637,9 +637,9 @@ Slanted walls of crumbling rubble (steep, DEX check to climb). Broken stonework 
 - **Stone table** (cluttered with old alchemical equipment, damp, moldy parchment, and fallen rubble from the ceiling).
 - **Glass alembic** (black soot on the bottom). 
 - ***Professor Chives*** (furiously toiling away at his work).
-- ***North***: **stairs leading up** (lit by torches, crumbled).
+- ***North:*** **stairs leading up** (lit by torches, crumbled).
 - ***West:*** **wooden door** (plain, unmarked).
-- ***East***: **wooden door** (stuck, cracked with vines and flowers growing out of it).
+- ***East:*** **wooden door** (stuck, cracked with vines and flowers growing out of it).
 
 ‣ **The stairs:** lead up to a long, torch-lit corridor. At the end of the corridor is a stone door that opens into Professor Chives' chambers. The other side of the door is concealed in Professor Chives' chambers.
 
