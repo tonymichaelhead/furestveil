@@ -6,9 +6,9 @@ permalink: /factions/cellar-rats/
 ---
 
 ## The Cellar Rats
-Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [Wine Cellar]({% link the-under-school/level-1.md %}#6-wine-cellar) in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches. <!-- They dislike the Lawful Adventuring Party. -->
+Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [Wine Cellar]({% link the-under-school/level-1.md %}#6-wine-cellar) in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches.
 
-They seek to exterminate the pixies in the [Pixie Lair]({% link the-under-school/level-1.md %}#22-a-pixie-lair---room-1), steal their treasure, and secure the entire first level of the Under-School for their own, but require extra fighting power to do so.
+The Cellar Rats seek to exterminate the pixies in the [Pixie Lair]({% link the-under-school/level-1.md %}#22-a-pixie-lair---room-1), steal their treasure, and secure the entire first level of the Under-School for their own, but require extra fighting power to do so.
 
 {: .statblock }
 > #### Gyleon Arnes - *Lv. 1 Fighter*

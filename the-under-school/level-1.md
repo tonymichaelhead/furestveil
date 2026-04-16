@@ -14,13 +14,18 @@ permalink: /the-under-school/level-1
 Beneath Fürestveil University are the ruins of the former school castle that fell 300 years ago in the Great War. The current school has been built on top of the ruins, but remnants of the former school, known as the "Under-School", lie below, partially intact. Brave students and adventurers alike visit the Under-School to uncover the mysteries of this 1000-year-old institution, and to fill their pockets with relics and treasure as a rite of passage. Occasionally, they return with pockets full of gold and stories to tell.
 
 ---
-### The Adventure
-A horrific demon stalks the halls of Fürestveil University at night, liquefying students with a single gaze and devouring their innards. Headmaster Sterling has offered the party 5000gp to expunge the demon from the school. Rumor has it that the demon is tethered to a cursed piece of alchemy equipment, an *alembic*, which lies [[#25. Alchemy Lab|somewhere]] in the Under-School.
+### Hooks
+#### The Demon of Fürestveil
+A horrific demon stalks the halls of Fürestveil University at night, liquefying students with a single gaze and devouring their innards. Headmaster Sterling has offered the party 5000gp to expunge the demon from the school. Rumor has it that the demon is tethered to a cursed piece of alchemy equipment, an *alembic*, which lies [somewhere](#25-alchemy-lab) in the Under-School.
 
+##### GM Info
+Professor Chives, the [alchemy professor](#professor-chives---lv-5-m-u) had a beloved pet cat named Samson, who recently died of natural causes. Unbeknownst to anyone, he desperately attempted to revive Samson by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [Samson](#8-samson)). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know, the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night<!-- ([[Demon#The Cause of the Curse|The Cause of the Curse]]) -->.
+
+#### Other Hooks
 Alternatively, GM may use the following ideas as a starting point to get their players interested in exploring the Under-School:
 - [Vela](#vela), a first-year student, went into the Under-School to explore and hasn't returned. Her parents are loaded and would surely offer a reward for her safe return.
 - An unsavory contact requests the party to find the enchanted *Elowa's Whistle*, which is rumored to be hidden somewhere in the Under-School. See "Elowa's Whistle" in [Area 12 - "Music Room"](#12-music-room).
-- At the behest of a living descendant, the party must bring a memento to their ancestor's ghost in the Under-School. The memento will bring the spirit to rest. (The GM is free to create the details.)
+- At the behest of a living descendant, the party must bring a memento to their ancestor's ghost in the Under-School. The memento will bring the spirit to rest.
 
 ---
 ### Factions
@@ -28,11 +33,7 @@ Alternatively, GM may use the following ideas as a starting point to get their p
 Relatively peaceful winged folk who have made their home in the Under-School. Although non-violent, they will seek to drive out the Cellar Rats (see below) due to several past attempts to harm them and their home. The pixies are neutral toward the party unless the party is seen alongside the Cellar Rats. They will work with the party to drive out the miscreants and achieve total peace, so they can joyously carry out their lives of harmless mischief, music, and laughter.
 
 #### The Cellar Rats
-Miscreant students at Fürestveil University who fancy themselves a "gang" and commit petty crime. They have claimed the shoddy [Wine Cellar](#6-wine-cellar) in the Under-School as their place of business. They bully, steal, and occasionally harm other students in their quest for notoriety and riches.
-
-They seek to exterminate the pixies in the [Pixie Lair](#22-a-pixie-lair---room-1), steal their treasure, and secure the entire first level of the Under-School for their own, but require extra fighting power to do so.
-
-Full NPC descriptions [here]({% link factions/cellar-rats.md %}).
+Read about The Cellar Rats [here]({% link factions/cellar-rats.md %}).
 
 #### Ghosts of the Past
 The first level of the Under-School is inhabited by several ghosts. These students and faculty fell victim to the Great War hundreds of years ago, and most are unaware that they have long been dead, continuing to carry out their daily lives as usual. Clever parties may bargain for their help with various tasks. Attempting to reveal the truth, that centuries have passed and they are long deceased, will almost certainly provoke confusion and hostility unless great care is taken.
@@ -62,7 +63,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 | 3    | The crumbling of stone can be heard echoing in the distance.                                                                                                                                |
 | 4    | Rubble and dust fall from the ceiling. Save against poison or spend the next turn wheezing.                                                                                                          |
 | 5    | Roll 1d6:<br>1-3: [The Cellar Rats]({% link factions/cellar-rats.md %}) scavenging for treasure off dead student corpses.<br>4-6: 1d4 students (as lv. 1 adventurers) looking for treasure.                  |
-| 6    | 3d6 ***[Pixies](#the-pixies)*** begin tailing and playing pranks on the party.                                                                                                                     |
+| 6    | 3d6 ***[Pixies](#the-pixies)*** begin tailing and playing harmless pranks on the party.                                                                                                                     |
 | 7    | Roll 1d6:<br>1-4: 2d4 ***[Giant Rats](#giant-rats)*** eating a corpse.<br>5-6: 1d6+1 ***[Wererats](#wererats)*** looking for recruits to join [The Moonlight Fellowship]({% link factions/overview.md %}#the-moonlight-fellowship). |
 | 8    | 2d4 ***[Inside-out Snakes](#inside-out-snakes)*** looking for fresh meat.                                                                                                                                             |
 | 9    | 1d4+2 patrolling ***[Skeleton Guards](#skeleton-guards)*** attack on sight.                                                                                                                                         |
@@ -71,7 +72,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 {: .statblock }
 > #### Ghost Guards
 >
->Wearing dark green padded gambesons. Wield swords.
+>Wearing dark green padded gambesons. Wield swords. Sworn to their duty of glorified hall monitor and ensuring the safety of the school, they will attempt to drive all non-faculty and non-students from the Under-School. See [[#Ghost Guards and Other Spirits of the Past]].
 >
 > **Hit Dice:** 4***** **Armor:** 3 [16] **To-hit:** 16 [+3]<br> 
 > **Attack:** 1 x sword (1d6) or touch (energy drain)<br> 
@@ -79,10 +80,10 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 > **Saves:** D10 W11 P12 B13 S14<br> 
 > **Morale:** 12 **Alignment:** Neutral **XP:** 275<br> 
 >
-> - **Undead attributes**: completely *silent* until attacking. *Immunity*: spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
-> - **Immunity**: non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
-> - **Half damage**: from silvered weapons.
-> - **Energy drain**: make an attack roll, a touched victim will incur a -1 penalty (cumulative) to all rolls (attacks, saves, and ability checks). A full night of sleep will remove all penalties.
+> - **Undead attributes:** completely *silent* until attacking. *Immunity*: spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
+> - **Immunity:** non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
+> - **Half damage:** from silvered weapons.
+> - **Energy drain:** make an attack roll, a touched victim will incur a -1 penalty (cumulative) to all rolls (attacks, saves, and ability checks). A full night of sleep will remove all penalties.
 
 ---
 
@@ -111,9 +112,9 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 > **Saves:** D12 W13 P14 B15 S16 <br>
 > **Morale:** 9 **Alignment:** Chaotic **XP:** 50 <br>
 > 
-> - **Immunity**: non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
+> - **Immunity:** non-magical weapons. Can only be harmed by magic (magical weapons included) or silver.
 > - **Summon:** can summon 1d2 [Giant Rats](#giant-rats) (arrive in 1d4 rounds).
-> - **Curse**: if half or more hit points are lost from the bite, wererat lycanthropy will be contracted.<!-- See [[Lycanthropy]] for more information. --> 
+> - **Curse:** if half or more hit points are lost from the bite, wererat lycanthropy will be contracted.<!-- See [[Lycanthropy]] for more information. --> 
 
 ---
 
@@ -121,7 +122,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 
 ### 0. The Hallway (Entrance)
 *Crumbled and unmaintained. Broken stonework from the ceiling and walls litter the floor.*
-- **Hole in the stone floor** (ladder going down to **Area 1** - "The Guard"). 
+- **Hole in the stone floor** (ladder going down to **Area 1** "The Guard"). 
 - **Wooden sign** ("Under-School Entrance - Staff Only" in hand-painted common).
 - **Crumbled stone staircase** (dark, leads down to **Area 16** "Tutoring Room").
 
@@ -130,7 +131,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 ### 1. The Guard
 *Pitch black. Crumbled limestone walls covered with moss and damp. Dank smell of wet soil and rock.*
 - ***Ghost Guard*** ("Rodward", wearing old-fashioned dark green gambeson, standing guard). 
-- ***North*** Gentle waltz music echoes.
+- ***North:*** Gentle waltz music echoes.
 
 > #### Ghost Guard "Rodward"
 > Guarded the old school entrance hundreds of years ago. Continues to guard the entrance today, and is unaware that any time has passed. Rodward will interrogate the party and only allow students, staff, and affiliated members to enter.
@@ -154,11 +155,11 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 ---
 
 ### 3. Goldfish Puddles
-*Large beams of light peak through holes in the ceiling. Water trickles from holes in the ceiling and walls.*
+*Large beams of light peak through holes in the ceiling. Water trickles from the walls.*
 - **Several puddles of water** (varying sizes, 1' deep or less, shoal of ***Undead Goldfish*** with glazed over eyes swim in each puddle). 
 - **Thick vines** (cover western wall).
 - ***North*:** sounds of gentle trickling water.
-- ***East:*** Waltz music.
+- ***East:*** waltz music.
 
 ‣ **Searching the puddles:** ***Undead Goldfish*** attack anything that enters the water. The treasure is an illusion.
 
@@ -174,7 +175,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 > **Saves:** D12 W13 P14 B15 S16 <br>
 > **Morale**: 12 **Alignment:** Chaotic **XP:** 16 <br>
 > 
-> - **Bite:** Automatic hit (no attack roll). Save against breath for 1/2 damage.
+> - **Bite:** automatic hit (no attack roll). Save against breath for 1/2 damage.
 > - **Skin rot:** if bitten, necrotic rot sets in. Cannot be healed by magic, and healing through rest takes 10x longer. The disease can only be cured through magical means.
 
 ---
@@ -182,12 +183,12 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 ### 4. The Spider
 *Partially collapsed roof and stone litter the floor. The smell of death.*
 - **Spiderwebs** (dense, impassable, stretch from north to south wall).
-- **Wriggling silk** **sack in the webs** (muffled voice calling for help).
+- **Wriggling silk sack** in the webs (muffled voice calling for help).
 - **Red couch** **and 2 chairs** (dusty, broken down).
 
 ‣ **Web:** STR or DEX check to escape if stuck. A ***Giant Spider*** lurks in its shadows and will wait for an opportune time to strike.
 
-‣ **Silk web sack**: Contains ***Vela***, a trapped student.
+‣ **Silk web sack:** contains ***Vela***, a trapped student.
 
 {: .statblock }
 > #### Vela 
@@ -214,7 +215,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 *Musty. Broken pots crunch beneath the feet. Water drips from the ceiling.*
 - **Several clay pots** (contain decayed or dried up plants).
 - **Posters on the wall** (faded parchment, depict drawings of multiple plant species). 
-- **Large clay planter** (narrow, long, plants growing inside)
+- **Large clay planter** (narrow, long, *Thorny Bush* and magical herbs growing inside)
 - ***North:*** smell of rancid wine.
 - ***South:*** sounds of water dripping.
 
@@ -223,9 +224,9 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 - **Several smaller plants** (variety of shapes and sizes)
 - **Water drips** (through cracks in the ceiling, keeping soil hydrated)
 
- ‣ **Come within 10' of the planter:** 2 tentacles shoot out from the ***Thorny Bush*** and attempt to strangle to two characters (see [Thorny Bush](#thorny-bush)).
+ ‣ **Come within 10' of the planter:** 2 tentacles shoot out from the ***Thorny Bush*** and attempt to strangle up to two characters (see [Thorny Bush](#thorny-bush)).
 
-‣ **The planter contains:** a few living magical herbs that will need to be identified by a specialist.
+‣ **The magical herbs:** need to be identified by a specialist.
 - 1 *Fangweed:* rough leaves with soft thorns (fangs). Cures lycanthropy.
 - 1 *Palevine:* pale green vine. Works as *Cure Disease* cast at lv. 9. Alternatively, it prevents disease for 2d4 turns.
 - 1 *Aerwort:* if eaten, grants fly for 1d6 turns (+1 per level)
@@ -240,8 +241,8 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 > **Saves:** D12 W13 P14 B15 S16 <br>
 > **Morale:** 12 **Alignment:** Chaotic **XP:** 13 <br>
 > 
-> - **Thorny Bush:** *Hit Dice:* 1. Hits against it land automatically (no attack roll required). **Tentacles**: *Hit Dice:* 1 *Armor:* 7 [12]
-> - **Strangle:** Tentacle wraps around neck (save against paralysis to avoid). If strangled, die in 2d4 rounds unless the tentacles are severed or the plant is destroyed. Tentacles are severed automatically on hit.
+> - **Thorny Bush:** *Hit Dice:* 1. Hits against it land automatically (no attack roll required). **Tentacles:** *Hit Dice:* 1 *Armor:* 7 [12]
+> - **Strangle:** tentacle wraps around neck (save against paralysis to avoid). If strangled, die in 2d4 rounds unless the tentacles are severed or the plant is destroyed. Tentacles are severed automatically on hit.
 
 ---
 
@@ -252,11 +253,11 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 - **Dilapidated furniture** (moldy wooden chairs and sofa, holes in the fabric).
 - **Green curtain hanging on south wall** (patched and moth-ridden, "Fürestveil University" embroidered in silver thread). 
 
-‣ **The Cellar Rats**: (see [The Cellar Rats]({% link factions/cellar-rats.md %})) have turned the old wine cellar into their hideout. Present on first visit. 25% chance they will be present on subsequent visits, and 25% chance per turn they will arrive if not present. 
-- **Wants** to kill the pixies and steal their treasure. Also wants recruits to join their gang of petty crime.
+‣ **The Cellar Rats:** (see [The Cellar Rats]({% link factions/cellar-rats.md %})) have turned the old wine cellar into their hideout. Present on first visit. 25% chance they will be present on subsequent visits, and 25% chance per turn they will arrive if not present. 
+- **Wants:** to kill the pixies and steal their treasure. Also wants recruits to join their gang of petty crime.
 - **Knows:** about [Samson](#samson).
 
-‣ **Searching the wine casks:** most are empty. One has a removable face plate and contains stolen treasure inside: a silver choker with a woman's face engraved on it (75gp), a diamond-encrusted golden belt buckle (230gp), a false eye made from clear quartz(150gp), 500gp, 450sp, and 150cp.
+‣ **Searching the wine casks:** most are empty. One has a removable faceplate and contains stolen treasure inside: a silver choker with a woman's face engraved on it (75gp), a diamond-encrusted golden belt buckle (230gp), a false eye made from clear quartz(150gp), 500gp, 450sp, and 150cp.
 
 ‣ **Investigating the curtain:** hides a crumbled stone stairway leading up to the Hungry Scholar.
 
@@ -265,11 +266,11 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 ### 7. Hanging Moss
 *Sounds of crunching and chittering to the east.*
 - **Dark green moss** (thick, wispy, hanging like a blanket from the ceiling in the hallway). 
-- **Small window** (1'x1', iron bars)
+- **Small window** (1x1', iron bars)
 
 ‣ **The moss:** if disturbed, releases spores in a 5' radius. 1d4 poison damage or save against poison for half damage. It is possible to pass underneath without disturbing if the players are careful.
 
-‣ **Looking through the window:** see the [Samson](#samson) in **Area 8** feasting on a corpse, crunching and chittering.
+‣ **Looking through the window:** see [Samson](#samson) in **Area 8** feasting on a corpse, crunching and chittering.
 
 ---
 
@@ -280,7 +281,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 - ***North:*** **stone door** (relief carving of an open book with the dwarven word for "power" on the page).
 - ***South:*** **stone door** (completely charred black).
 
-‣ **Searching the corpses:** find 2 silver daggers, a tiny golden halfling sword lined with emeralds (500gp), a pouch of moonstone (enough to power school wards for 1 month, worth 600gp total), 2 *Purple Honey Potions* (heal 1d4), a *Sleep Potion*, 250gp, and 75sp.
+‣ **Searching the corpses:** find 2 silver daggers, a tiny golden halfling sword lined with emeralds (500gp), a pouch of moonstone (<!--enough to power school wards for 1 month, -->worth 600gp total), 2 *Purple Honey Potions* (heal 1d4), a *Sleep Potion*, 250gp, and 75sp.
 
 {: .statblock }
 > #### Samson
@@ -318,21 +319,21 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 - ***East:*** **wooden door** (stuck, musical notes painted on it).
 - ***West:*** **wooden door** (faded painting of relaxing forest scenery).
 
-‣ **Inspecting the candles:** brass holders with "Fürestveil University" engraved on them in elven script. Candles are enchanted with magic that preserves their current state, so they will never melt any further. 
+‣ **Inspecting the candles:** brass holders with "Fürestveil University" engraved on them in elven script. Candles are enchanted with magic that causes them to float and never melt. 
 
 ‣ **Removing candles from the room:** the enchantment disappears from the removed candle.
 
 ---
 
 ### 11. Drawing Room
-*Smell of moldy cotton and wood furniture.*
+*Smell of moldy cotton and wooden furniture.*
 - **Lounge chairs** (appear once very comfortable and luxurious, now rotten and dilapidated).
 - **Plain green rug** (in front of one of the chairs).
 - **Painting** (west wall, 10' long, 7' tall, silver frame).
 
 ‣ **The painting:** depicts the inside of the school Observatory long ago. In the scene, people stand inside the Observatory. There are glowing runes on the wall, and the ceiling appears to be an open night sky with stars and planets. The painting is magically animated.
 
-‣ **Value of the painting:** The painting is quite valuable as a historical piece: worth 5000gp, but it is very bulky and heavy, and too large to fit through most dungeon doors. Exiting the dungeon with the painting will pose a significant challenge to a low-level party. Attempting to dismantle it in any way removes the animation enchantment and drops the value to 1000gp.
+‣ **Value of the painting:** the painting is quite valuable as a historical piece: worth 5000gp, but it is very bulky and heavy, and too large to fit through most dungeon doors. Exiting the dungeon with the painting will pose a significant challenge to a low-level party. Attempting to dismantle it in any way removes the animation enchantment and drops the value to 1000gp.
 
 ---
 
@@ -351,7 +352,7 @@ This narrow stone table is actually a magical keyboard. There are 24 runes (keys
 #### Stone Closet
 ‣ **Contains:** *Elowa's Whistle*, a small antique silver harp (250gp), a dwarven wooden drum (200gp), and drumsticks with hides stretched over the tips (75gp for the pair).
 
-‣ ***Elowa's Whistle***: a small wooden whistle that charms pixies within a 120' radius (no save). The effect lasts for one week, after which it may be reapplied with another blow. Pixies are charmed as per *Charm Person*. The whistle exudes a powerful magic aura and may make the owner a target for powerful fae creatures who want the item for themselves.
+‣ ***Elowa's Whistle:*** a small wooden whistle that charms pixies within a 120' radius (no save). The effect lasts for one week, after which it may be reapplied with another blow. Pixies are charmed as per *Charm Person*. The whistle exudes a powerful magic aura and may make the owner a target for powerful fae creatures who want the item for themselves.
 
 **Charmed Pixie Behavior:** unreliable and mischievous:
 - They will follow basic orders but quickly grow bored.
@@ -371,9 +372,9 @@ This narrow stone table is actually a magical keyboard. There are 24 runes (keys
 - ***East:*** gentle beams of light peaking in from holes in the ceiling illuminate the corridor with dim light.
 
 #### Ghost Scholars
-Unaware of the party's presence, and will ignore any attempts made by the party to communicate. If the party attempts to touch them, they will not react. However, any attempt to harm the ghosts (i.e., silver or magic) or touching any of the dinnerware will cause the ghosts to become aware of their presence and become hostile.
+Unaware of the party's presence, and will ignore any attempts made by the party to communicate. If the party attempts to touch them, they will not react. However, any attempt to harm the ghosts (i.e., silver or magic) or touching any of the dinnerware will cause the ghosts to become aware of the party's presence and become hostile.
 
-‣ **Stats:** As [Ghost Guards](#ghost-guards) without swords. Ghost Scholars will throw dishes and silverware (1d4 damage, roll to hit).
+‣ **Stats:** as [Ghost Guards](#ghost-guards) without swords. Ghost Scholars will throw dishes and silverware (1d4 damage, roll to hit).
 
 ‣ **Dinnerware value:** elven white-silver silverware: 10 sets (70gp per set), dwarven dinnerware elegantly carved from stone with gold ores swirled inside: 10 small plates (30gp each), 10 teacups (40gp), one small teapot (100gp).
 
@@ -403,7 +404,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - **Black chalkboard** (equations, symbols, notes from a Magic Fundamentals class long ago).
 - **Wooden chairs** (swollen with rot and damp).
 
-‣ **Reading the Sylvan**: those literate in Sylvan will find that most of the graffiti is childlike jokes and obscenities ("FÜRESTVEIL STINKS!", etc.). A thorough investigation of the text reveals that no monsters can enter the bathhouse in **Area 9** "Bathhouse".
+‣ **Reading the Sylvan:** those literate in Sylvan will find that most of the graffiti is childlike jokes and obscenities ("FÜRESTVEIL STINKS!", etc.). A thorough investigation of the text reveals that no monsters can enter the bathhouse in **Area 9** "Bathhouse".
 
 ---
 
@@ -441,13 +442,13 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - ***West:*** **stairs leading down** (smell of musty, moldy parchment).
 - ***East:*** **stone door** (plain and unmarked, leads to **Area 16** "Tutoring Room").
 
-‣ **The tapestry:** conceals a hidden, unlocked wooden door. Depicts a scholarly dwarf reading from a book, an elf clad in leather armor with a sword, and a robed human with a magical orb floating above his hands (the school founders). They are instructing a group of children in the forest.
+‣ **The tapestry:** depicts a scholarly dwarf reading from a book, an elf clad in leather armor with a sword, and a robed human with a magical orb floating above his hands (the school founders). They are instructing a group of children in the forest. *Conceals a hidden, unlocked wooden door.*
 
 ---
 
 ### 18. Training Room
 *Shafts of light in sparse beams. Smell of rust.*
-- 5 ***Skeleton Guards*** (lie on floor, wearing rotted green gambesons, animate and attack if anyone sets foot in the room).
+- 5 ***Skeleton Guards*** (lie on floor, wearing rotten green gambesons, animate and attack if anyone sets foot in the room).
 - **9 wooden training dummies** (with scorch marks from magical blasts, a few of them dressed in armor). 
 - **Weapon rack** (dusty weapons, armor hangs on hooks behind it).
 - ***North:*** **stone double doors** ("THIEVES TURN BACK!" written in Sylvan glyphs that glow pink and green).
@@ -457,11 +458,11 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 
 ‣ **Investigating the training dummies:** find leather armor (scorched but usable), *Elven Chainmail* (+2 against corporeal undead, +1 against all other creatures).
 
-‣ **The training rack contains**: 2 spears, a rusty, blunt sword (does 1d4 damage), battered plate armor (unsightly, but still works fine), and 3 +2 arrows.
+‣ **The training rack contains:** 2 spears, a rusty, blunt sword (does 1d4 damage), battered plate armor (unsightly, but still works fine), and 3 +2 arrows.
 
 {: .statblock }
 > #### Skeleton Guards
-> Dressed in rotted, dark green padded gambesons.
+> Dressed in rotten, dark green padded gambesons.
 > 
 > **Hit Dice:** 1 **Armor:** 6 [13] **To-hit:** 19 [0] <br>
 > **Attack:** 1 × sword (1d6) <br>
@@ -469,7 +470,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 > **Saves:** D12 W13 P14 B15 S16 <br>
 > **Morale:** 12 **Alignment:** Chaotic **XP:** 10 <br>
 > 
-> - **Undead attributes**: completely *silent* until attacking. *Immunity*: spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
+> - **Undead attributes:** completely *silent* until attacking. *Immunity:* spells that harm living creatures like poison or acid, and spells affecting the brain, such as sleep, charm, or illusions.
 
 ---
 
@@ -492,12 +493,12 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 *Smell of decaying wood. Puddles of water on the floor. Rubble from a partially collapsed ceiling.*
 - **Dresser** (wooden, decaying).
 - **Bed** (damp, rotten).
-- **Vanity mirror** (no mirror, just the frame, sits on dresser).
+- **Vanity mirror frame** (no mirror, sits on dresser).
 - ***Poltergeist*** (invisible, throws stones at anyone inside the room after 1 round). 
 
 {: .statblock }
 > #### Poltergeist
-> A lost and confused spirit that haunts the old dorm room.
+> A restless spirit that haunts the old dorm room.
 > 
 > **Hit Dice:** 3 **Armor:** 5 [14] **To-hit:** 17 [+2] <br> 
 > **Attack:** 2 x throw stone (1d4) <br>
@@ -505,16 +506,16 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 > **Saves:** D12 W13 P14 B15 S16 <br>
 > **Morale:** 10 **Alignment:** Chaotic **XP:** 50 <br>
 > 
-> - **Undead attributes**: Completely silent until attacking. Immunity: poison, acid, or effects that harm living creatures, and spells affecting the brain, such as sleep, charm, or illusions.
-> - **Invisible**: footsteps splash in puddles of water on the floor, giving position away. -4 to attack rolls against it.
+> - **Undead attributes:** completely silent until attacking. Immunity: poison, acid, or effects that harm living creatures, and spells affecting the brain, such as sleep, charm, or illusions.
+> - **Invisible:** footsteps splash in puddles of water on the floor, giving position away. -4 to attack rolls against it.
 
 #### Dresser
 
-‣ **Contains:** a locked **jewelry box** made of rotted wood (easily smashed open) and a **journal**.
+‣ **Contains:** a locked **jewelry box** made of rotten wood (easily smashed open) and a **journal**.
 
 ‣ **Jewelry box:** 2 black rusted opal earrings (the opals are worth 25gp each), an opaque red garnet orb pendant necklace (60gp), and a silver hand mirror (90gp).
 
-‣ **Journal:** Mostly mundane entries about school life, except for a noteworthy entry: "... and they sealed The Founder away in his tomb in the cemetery. We learned he had been building a cult following under the school for the last 800 years...".
+‣ **Journal:** mostly mundane entries about school life, except for a noteworthy entry: "... and they sealed The Founder away in his tomb in the cemetery. We learned he had been building a cult following under the school for the last 800 years...".
 
 ---
 
@@ -523,10 +524,10 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - ***Ghost Guard*** ("Gus", sits at a table alone, throwing dice).
 - **Wooden table** (damp, obscenities in common etched in).
 - **Glass bottles** (empty, broken).
-- **Ale casks** (wooden, rotted, and disintegrating).
+- **Ale casks** (wooden, rotten, and disintegrating).
 
 > #### Gus the Dice Hustler
-> A guard of the former school. Gus had a reputation for spending his days gambling. He will wager his *Ghost Sword* for a living human body in a game of dice. If Gus wins, he will possess one body immediately. If he loses, he will willingly hand over the sword. Stats as [Ghost Guards](#ghost-guards). More than one character may play, increasing the odds of Gus losing. However, all participants must wager their bodies. If Gus wins against multiple participants, he will summon his other guard friends to inhabit the remaining bodies.
+> A guard of the former school. Gus had a reputation for spending his days gambling. He will wager *Mhezgel's Sword* for a living human body in a game of dice. If Gus wins, he will possess one body immediately. If he loses, he will willingly hand over the sword. Stats as [Ghost Guards](#ghost-guards). More than one character may play, increasing the odds of Gus losing. However, all participants must wager their bodies. If Gus wins against multiple participants, he will summon his other guard friends to inhabit the remaining bodies.
 
 ‣ **The Game Rules:** the first to score 100 points wins. Multiple players may join.
 - Each turn, a player rolls a die as many times as they like until they decide to "hold" or roll a "1".
@@ -536,7 +537,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 
 ‣ **If Gus inhabits a body:** he will spend his days at the Hungry Scholar hustling money from students, while attempting to keep his true nature a secret.
 
-‣ ***Ghost Sword:*** a silver sword with images of ghostly spirits animated on the blade. +2 to incorporeal spirits and +1 to non-incorporeal spirits. While the sword is wielded, invisible spirits in a 120' radius become visible.
+‣ ***Mhezgel's Sword:*** a silver sword with images of ghostly spirits animated on the blade. +2 to incorporeal spirits and +1 to non-incorporeal spirits. While the sword is wielded, invisible spirits in a 120' radius become visible.
 
 ---
 
@@ -548,8 +549,9 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - **Wooden chest** (wrapped in living vines and flowers, sits in the corner).
 - ***East:*** more laughter. Small, soft pink and green glowing lights flying around in the distance.
 - ***West:*** **wooden door** (covered in flowers and vines).
+- **North:** see note on *Northern Stairs* below.
 
- ‣ **Investigating the western door**: "Alchemy Lab" written in common
+ ‣ **Investigating the western door:** "Alchemy Lab" written in common
 
 #### The Pixie Treasure
 
@@ -560,6 +562,8 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 ‣ **The wooden chest:** unlocked, but vines must be cut away to open. Contains: silver crown with flowers sprouting out of it (250gp), 15 gold-plated squirrel skulls (<!-- antique Bloodthorn currency, -->50gp per skull). 500 silver coins, each with a mushroom growing out of it.
 
 ‣ **Eating the mushrooms:** save vs poison or fall over laughing for a turn. Worth 1gp per mushroom coin, or 1sp if the mushroom is removed.
+
+‣ **Northern Stairs:** leads to level 2 of the dungeon. Level 2 is currently being edited and will be uploaded soon. For now the DM may wish to place something else here, obstruct the entrance for later use, or omit it entirely.
 
 {: .statblock }
 > #### The Pixies
@@ -573,7 +577,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 > **Saves:** D13 W13 P13 B14 S15 <br>
 > **Morale:** 7 **Alignment:** Neutral **XP:** 6 <br>
 > 
-> - **Pixie Curse**: a group of five pixies can cast a curse (no attack roll). Save against spells or suffer a comical cosmetic effect (grow permanent donkey ears, rabbit teeth, etc.).
+> - **Pixie Curse:** a group of five pixies can cast a curse (no attack roll). Save against spells or suffer a comical cosmetic effect (grow permanent donkey ears, rabbit teeth, etc.).
 
 ---
 
@@ -584,16 +588,13 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - **Several drums** (varying sizes, made of wood or bone, sit about the room).
 - ***West:*** more laughter. Small, soft pink and green glowing lights flying around in the distance.
 - ***East:*** rays of light peak through the ceiling and streak the halls.
-- ***South:*** Trails of molded books and parchment paper are strewn about the floor. Illegible.
-- **North:** See note on *Northern Stairs* below.
+- ***South:*** trails of molded books and parchment paper are strewn about the floor. Illegible.
 
-‣ **The Pixies:** See *[The Pixies](#the-pixies)* in **Area 22-a**. Will attack if the party acts hostile toward them or attempts to steal anything in their lair.
+‣ **The Pixies:** see *[The Pixies](#the-pixies)* in **Area 22-a**. Will attack if the party acts hostile toward them or attempts to steal anything in their lair.
 
 ‣ **The drums:** very poor condition. Moldy and swollen with damp. Worth nothing to most intelligent creatures, but the pixies love them.
 
 ‣ **Playing the drums:** excites the pixies. They will dance and fly around with glee, magically warping the sound waves to make the drumbeats melodic. The drumbeat vibrations become a multitude of colorful waves in the air.
-
-‣ **Northern Stairs:** Leads to level 2 of the dungeon. Level 2 is currently being edited and will be uploaded soon. For now the DM may wish to place something else here, obstruct the entrance for later use, or omit it entirely.
 
 ---
 
@@ -613,13 +614,13 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 #### The Chasm
 Slanted walls of crumbling rubble (steep, DEX check to climb). Broken stonework and mud at the bottom of the pit. There are 2 inanimate skeletons at the bottom, bones devoid of all flesh. 
 
-‣ **Crossing the pillar:** If characters walk across, there will be a chance that the pillar crumbles. Pass a DEX check or fall, taking 1d6 damage and invoking the hungry inside-out snakes (see below).
+‣ **Crossing the pillar:** if characters walk across, there will be a chance that the pillar crumbles. Pass a DEX check or fall, taking 1d6 damage and invoking the hungry ***Inside-out Snakes*** (see below).
 
 ‣ **Traversing or falling into the bottom of the chasm:** 7 burrowed ***Inside-out Snakes*** come out from under the rubble, hungry.
 
 {: .statblock }
 > #### Inside-out Snakes
-> Half the length of their body protrudes from their mouth. The opening of the "flesh tube" has teeth on it.
+> Half the length of their inner body protrudes from their mouth. The opening of the "flesh tube" has teeth on it.
 > 
 > **Hit Dice:** 1** **Armor:** 6 [13] **To-hit:** 19 [0] <br>
 > **Attack:** 1 × bite (1d4+acid) or burrow <br>
@@ -648,15 +649,6 @@ Slanted walls of crumbling rubble (steep, DEX check to climb). Broken stonework 
 
 ‣ **Search the clutter:** find diagrams of cockroach DNA, and various sketches of cockroach and cat anatomy. Search the clutter for 10 minutes and find: a *Bravery Potion* (immune to fear effects for 2d4 turns), a *Polymorph Potion* (works like M-U's Polymorph Self), 2 *Lv. 9 Cure Disease Potions* (equivalent to casting Cure Disease at lv. 9).
 
-#### Professor Chives and Samson
-Professor Chives had a beloved pet cat named Samson, who recently died of natural causes. Deeply saddened by Samson's death, Professor Chives desperately attempted to revive him by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [Samson](#8-samson)). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know, the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night<!-- ([[Demon#The Cause of the Curse|The Cause of the Curse]]) -->.
-
-‣ **On first visit:** Professor Chives will be present. 50% chance he will be present on subsequent visits, and 25% chance per turn he will arrive if not present. 
-
-‣ **Reaction to the party:** Professor Chives will be bothered that the party is interrupting his work and ask them politely to finish up their business and leave. 
-
-‣ **If the party killed Samson:** Professor Chives will lament the death of his pet, but will be grateful that the party has done what he could not and put Samson out of his misery.
-
 {: .statblock }
 > #### Professor Chives - *Lv. 5 M-U*
 > **Appearance:** 60s, white frizzy hair, large spectacles.
@@ -673,6 +665,12 @@ Professor Chives had a beloved pet cat named Samson, who recently died of natura
 > - **Spells:** Shield, Sleep, Invisibility, Continual Light, Fire Ball
 > - **Items:** *Growth Potion*, 2 *Purple Honey Potions*
 
+‣ **On first visit:** Professor Chives will be present. 50% chance he will be present on subsequent visits, and 25% chance per turn he will arrive if not present. 
+
+‣ **Reaction to the party:** Professor Chives will be bothered that the party is interrupting his work and ask them politely to finish up their business and leave. 
+
+‣ **If the party killed Samson:** Professor Chives will lament the death of his pet, but will be grateful that the party has done what he could not and put Samson out of his misery.
+
 ---
 
 {: .statblock }
@@ -687,9 +685,9 @@ Professor Chives had a beloved pet cat named Samson, who recently died of natura
 > **Morale:** 12 **Alignment:** Chaotic **XP:** 3700<br>
 >
 > - **Immunity**: spells that harm the living (poison, acid), mind-affecting magic (sleep, charm, illusion), and non-magical weapons. Can only be harmed by magic or silver.
-> - **Claws:** disease infected. If hit, save vs poison or die in 1d4 days unless cured by high level cleric (lv. 11 or higher).
+> - **Claws:** disease infected. If hit, save vs poison or die in 1d4 days unless cured by high level cleric (lv. 9 or higher).
 > - **Screech:** blood curdling. Anyone within 120' radius must save vs spells or fall on the ground screaming in pain and terror for 1d4 rounds before attempting to flee.
-> - **Gaze:** Save vs paralysis or internal body (everything but skin) liquefies; victim remains alive. This effect is permanent. Avoided by averting eyes or using a mirror (as per basilisk). Demon will devour the insides of a liquefied victim, leaving the skin behind. _Flesh to stone_ (11th-level MU or higher) reverses the effect.
+> - **Gaze:** Save vs paralysis or internal body (everything but skin) liquefies; victim remains alive. This effect is permanent. Avoided by averting eyes or using a mirror (as per basilisk). Demon will devour the insides of a liquefied victim, leaving the skin behind. _Flesh to stone_ (9th-level MU or higher) reverses the effect.
 
 #### Breaking the alembic
  If the alembic is broken (simply breaking the glass will do), the demon will immediately appear. It can no longer teleport to the demon world, effectively becoming mortal.
@@ -698,5 +696,5 @@ Professor Chives had a beloved pet cat named Samson, who recently died of natura
 - Reduced to 4 HD (Armor: 3 [16], To-hit: 16 [+3], D10 W11 P12 B13 S14).
 - Claws reduced to 1d4 damage.
 - Save against shriek, liquefy, and disease with a +4 bonus.
-- Disease is easily curable with Cure Disease (any level).
+- Disease and gaze effects can be cured at any class level (no longer requires minimum level of 11).
 - Cannot teleport to escape or heal.
