@@ -18,8 +18,8 @@ Beneath Fürestveil University are the ruins of the former school castle that fe
 #### The Demon of Fürestveil
 A horrific demon stalks the halls of Fürestveil University at night, liquefying students with a single gaze and devouring their innards. Headmaster Sterling has offered the party 5000gp to expunge the demon from the school. Rumor has it that the demon is tethered to a cursed piece of alchemy equipment, an *alembic*, which lies [somewhere](#25-alchemy-lab) in the Under-School.
 
-##### GM Info
-Professor Chives, the [alchemy professor](#professor-chives---lv-5-m-u) had a beloved pet cat named Samson, who recently died of natural causes. Unbeknownst to anyone, he desperately attempted to revive Samson by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [Samson](#8-samson)). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know, the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night<!-- ([[Demon#The Cause of the Curse|The Cause of the Curse]]) -->.
+##### The (Secret) Cause of the Demon
+Professor Chives, the [alchemy professor](#professor-chives---lv-5-m-u), had a beloved pet cat named Samson, who recently died of natural causes. Unbeknownst to anyone, he desperately attempted to revive Samson by patching his failed organs with cockroach stem cells, thus creating a terrible abomination (see [Samson](#8-samson)). Professor Chives now works tirelessly on a cure for Samson and sneaks into the former alchemy lab in the Under-School to work in privacy and to take care of Samson, whom he has hidden there (**Area 8**). Little does he know that the old alchemy equipment is cursed, and his use of the equipment unknowingly released a terrible demon that stalks the school corridors at night<!-- ([[Demon#The Cause of the Curse|The Cause of the Curse]]) -->.
 
 #### Other Hooks
 Alternatively, GM may use the following ideas as a starting point to get their players interested in exploring the Under-School:
@@ -67,12 +67,12 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 | 7    | Roll 1d6:<br>1-4: 2d4 ***[Giant Rats](#giant-rats)*** eating a corpse.<br>5-6: 1d6+1 ***[Wererats](#wererats)*** looking for recruits to join [The Moonlight Fellowship]({% link factions/overview.md %}#the-moonlight-fellowship). |
 | 8    | 2d4 ***[Inside-out Snakes](#inside-out-snakes)*** looking for fresh meat.                                                                                                                                             |
 | 9    | 1d4+2 patrolling ***[Skeleton Guards](#skeleton-guards)*** attack on sight.                                                                                                                                         |
-| 10   | Roll 1d6:<br>1-3: 1d4 ***[Ghost Guards](#ghost-guards)*** patrol and interrogate party.<br>4-6: an invisible ***[Poltergeist](#poltergeist)*** hurl stones at the party.                                      |
+| 10   | Roll 1d6:<br>1-3: 1d4 ***[Ghost Guards](#ghost-guards)*** patrol and interrogate party.<br>4-6: an invisible ***[Poltergeist](#poltergeist)*** hurls stones at the party.                                      |
 
 {: .statblock }
 > #### Ghost Guards
 >
->Wearing dark green padded gambesons. Wield swords. Sworn to their duty of glorified hall monitor and ensuring the safety of the school, they will attempt to drive all non-faculty and non-students from the Under-School. See [[#Ghost Guards and Other Spirits of the Past]].
+>Wearing dark green padded gambesons. Wield swords. Sworn to their duty of glorified hall monitor and ensuring the safety of the school, they will attempt to drive all non-faculty and non-students from the Under-School. See [Ghosts of the Past](#ghosts-of-the-past).
 >
 > **Hit Dice:** 4***** **Armor:** 3 [16] **To-hit:** 16 [+3]<br> 
 > **Attack:** 1 x sword (1d6) or touch (energy drain)<br> 
@@ -104,7 +104,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 
 {: .statblock }
 > #### Wererats
-> Humans that can change into half-human, half-rat form. Typically wield short swords or crossbows.<!-- See [[Lycanthropy]]. --> Most wererats will be members of [The Moonlight Fellowship]({% link factions/overview.md %}#the-moonlight-fellowship). <br>
+> Humans who can change into half-human, half-rat form. Typically wield short swords or crossbows.<!-- See [[Lycanthropy]]. --> Most wererats will be members of [The Moonlight Fellowship]({% link factions/overview.md %}#the-moonlight-fellowship). <br>
 > 
 > **Hit Dice:** 3* **Armor:** 6 [13] / 9 [10] (human form) **To-hit:** 17 [+2] <br>
 > **Attack:** 1 × bite (1d4 + curse) or 1 × dagger/crossbow (1d6) or 1 x *Summon* <br>
@@ -136,7 +136,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 > #### Ghost Guard "Rodward"
 > Guarded the old school entrance hundreds of years ago. Continues to guard the entrance today, and is unaware that any time has passed. Rodward will interrogate the party and only allow students, staff, and affiliated members to enter.
 >
-> ‣ **Attempting to exit to Under-School with treasure:** Rodward will give one warning before attacking.
+> ‣ **Attempting to exit the Under-School with treasure:** Rodward will give one warning before attacking.
 >
 > ‣ Stats as [Ghost Guards](#ghost-guards)
 
@@ -213,7 +213,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 
 ### 5. Herbology Room
 *Musty. Broken pots crunch beneath the feet. Water drips from the ceiling.*
-- **Several clay pots** (contain decayed or dried up plants).
+- **Several clay pots** (contain decayed or dried-up plants).
 - **Posters on the wall** (faded parchment, depict drawings of multiple plant species). 
 - **Large clay planter** (narrow, long, *Thorny Bush* and magical herbs growing inside)
 - ***North:*** smell of rancid wine.
@@ -259,7 +259,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 
 ‣ **Searching the wine casks:** most are empty. One has a removable faceplate and contains stolen treasure inside: a silver choker with a woman's face engraved on it (75gp), a diamond-encrusted golden belt buckle (230gp), a false eye made from clear quartz(150gp), 500gp, 450sp, and 150cp.
 
-‣ **Investigating the curtain:** hides a crumbled stone stairway leading up to the Hungry Scholar.
+‣ **Investigating the curtain:** hides a crumbled stone stairway leading up to The Hungry Scholar. **Note:** "The Hungry Scholar" refers to the university tavern. Its description [is under construction]({% link The Campus/index.md %}) along with the rest of the Fürestveil campus.
 
 ---
 
@@ -268,7 +268,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 - **Dark green moss** (thick, wispy, hanging like a blanket from the ceiling in the hallway). 
 - **Small window** (1x1', iron bars)
 
-‣ **The moss:** if disturbed, releases spores in a 5' radius. 1d4 poison damage or save against poison for half damage. It is possible to pass underneath without disturbing if the players are careful.
+‣ **The moss:** if disturbed, releases spores in a 5' radius. 1d4 poison damage or save against poison for half damage. It is possible to pass underneath without disturbing it if the players are careful.
 
 ‣ **Looking through the window:** see [Samson](#samson) in **Area 8** feasting on a corpse, crunching and chittering.
 
@@ -285,7 +285,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 
 {: .statblock }
 > #### Samson
-> A grotesque, 6-foot-tall cockroach body with the head of a cat. Breathes fire. It was once a normal cat, but a half-succeeded resurrection attempt by Professor Chives mutated it into an abomination (see [Professor Chives and Samson](#professor-chives-and-samson)).
+> A grotesque, 6-foot-tall cockroach body with the head of a cat. Breathes fire. It was once a normal cat, but a half-succeeded resurrection attempt by Professor Chives mutated it into an abomination (see [The (Secret) Cause of the Demon](#the-secret-cause-of-the-demon)).
 > 
 > **Hit Dice:** 3* **Armor:** 5 [14] **To-hit:** 17 [+2] <br>
 > **Attack:** 2 × claw (1d3),  1 × bite (1d6) or 1 × breath (2d4) <br>
@@ -319,7 +319,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 - ***East:*** **wooden door** (stuck, musical notes painted on it).
 - ***West:*** **wooden door** (faded painting of relaxing forest scenery).
 
-‣ **Inspecting the candles:** brass holders with "Fürestveil University" engraved on them in elven script. Candles are enchanted with magic that causes them to float and never melt. 
+‣ **Inspecting the candles:** brass holders with "Fürestveil University" engraved on them in elven script. Candles are enchanted with magic that causes them to float and never melt.
 
 ‣ **Removing candles from the room:** the enchantment disappears from the removed candle.
 
@@ -333,7 +333,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 
 ‣ **The painting:** depicts the inside of the school Observatory long ago. In the scene, people stand inside the Observatory. There are glowing runes on the wall, and the ceiling appears to be an open night sky with stars and planets. The painting is magically animated.
 
-‣ **Value of the painting:** the painting is quite valuable as a historical piece: worth 5000gp, but it is very bulky and heavy, and too large to fit through most dungeon doors. Exiting the dungeon with the painting will pose a significant challenge to a low-level party. Attempting to dismantle it in any way removes the animation enchantment and drops the value to 1000gp.
+‣ **Value of the painting:** the painting is quite valuable as a historical piece, worth 5000gp, but it is very bulky and heavy, and too large to fit through most dungeon doors. Exiting the dungeon with the painting will pose a significant challenge to a low-level party. Attempting to dismantle it in any way removes the animation enchantment and drops the value to 1000gp.
 
 ---
 
@@ -347,7 +347,7 @@ The first level of the Under-School is inhabited by several ghosts. These studen
 #### The Stone Table
 This narrow stone table is actually a magical keyboard. There are 24 runes (keys) about the size of a human hand. When the runes are touched, they glow a variety of colors, and a deep, rich tone is played.
 
-‣ **Playing the sheet music:** INT check to read and DEX check to play (taking one turn total). If read and played correctly, the seal on the stone closet is broken, and the door opens. Failed attempts may be repeated at the expense of time.
+‣ **Playing the sheet music:** INT check to read, and DEX check to play (taking one turn total). If read and played correctly, the seal on the stone closet is broken, and the door opens. Failed attempts may be repeated at the expense of time.
 
 #### Stone Closet
 ‣ **Contains:** *Elowa's Whistle*, a small antique silver harp (250gp), a dwarven wooden drum (200gp), and drumsticks with hides stretched over the tips (75gp for the pair).
@@ -392,9 +392,9 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 
 ‣ **Searching the tomes:** find a book of loose notes with a leather cover bound together with string. Cast as an M-U scroll: Invisibility of 10' Radius, Light (Darkness), Dispel Magic, Growth of Plants, and a scroll containing Snake Charm, and Remove Curse (Curse).
 
-‣ **The corpse:** is a cultist. Wears a fake golden skull ring with painted-in blood under the eyes (worthless). Carries a notebook.
+‣ **The corpse:** is a cultist. Wears a fake golden skull ring with painted-in blood under the eyes (worthless). <!-- Carries a notebook. -->
 
-‣ **The Cultist's Notebook:** dark arcane symbols and detailed notes on unsealing The Founder (lich) from his tomb. Reads like an M-U scroll. Cast on the Founder's tomb in the cemetery to break the magical seal and release him.
+<!-- ‣ **The Cultist's Notebook:** dark arcane symbols and detailed notes on unsealing The Founder (lich) from his tomb. Reads like an M-U scroll. Cast on the Founder's tomb in the cemetery to break the magical seal and release him. -->
 
 ---
 
@@ -412,12 +412,12 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 *Dusty, dark.* 
 - **Wooden table** (plain).
 - **Brass goblet** (sitting upon the table, empty).
-- **Stone door** (appears ancient, ornate elven runes "Fürestveil University", no handles, sealed with magic).
 - **Chalkboard** (black, dusty, nothing written on it).
+- ***North:* stone door** (appears ancient, ornate elven runes "Fürestveil University", no handles, sealed with magic).
 
 ‣ **If the stone door or goblet is touched:** the words "DRINK ME" slowly appear on the chalkboard as if written in chalk, and the goblet magically fills with wine.
 
-‣ **If the wine is drunk:** the seal temporarily disappears and the door pops open. Roll on the *Wine Effects* table. Any subsequent drinks will not affect the same drinker until the dungeon is exited and the effects wear off.
+‣ **If the wine is drunk:** the seal temporarily disappears and the door leading into **Area 17** "Tapestry" pops open. Roll on the *Wine Effects* table. Any subsequent drinks will not affect the same drinker until the dungeon is exited and the effects wear off.
 
 ‣ **If the goblet is removed:** A new one will appear in its place a day later. The brass goblet itself is worthless.
 
@@ -535,7 +535,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - If a player decides to "hold", the points accumulated on their turn are added to their total score, and it becomes the next player's turn.
 - If a 1 is rolled, they score no points for their turn, and it becomes the next player's turn.
 
-‣ **If Gus inhabits a body:** he will spend his days at the Hungry Scholar hustling money from students, while attempting to keep his true nature a secret.
+‣ **If Gus inhabits a body:** he will spend his days at the Hungry Scholar hustling money from students while attempting to keep his true nature a secret.
 
 ‣ ***Mhezgel's Sword:*** a silver sword with images of ghostly spirits animated on the blade. +2 to incorporeal spirits and +1 to non-incorporeal spirits. While the sword is wielded, invisible spirits in a 120' radius become visible.
 
@@ -549,7 +549,7 @@ Unaware of the party's presence, and will ignore any attempts made by the party 
 - **Wooden chest** (wrapped in living vines and flowers, sits in the corner).
 - ***East:*** more laughter. Small, soft pink and green glowing lights flying around in the distance.
 - ***West:*** **wooden door** (covered in flowers and vines).
-- **North:** see note on *Northern Stairs* below.
+- ***North:*** see note on *Northern Stairs* below.
 
  ‣ **Investigating the western door:** "Alchemy Lab" written in common
 
@@ -642,10 +642,9 @@ Slanted walls of crumbling rubble (steep, DEX check to climb). Broken stonework 
 - ***West:*** **wooden door** (plain, unmarked).
 - ***East:*** **wooden door** (stuck, cracked with vines and flowers growing out of it).
 
-‣ **The stairs:** lead up to a long, torch-lit corridor. At the end of the corridor is a stone door that opens into Professor Chives' chambers. The other side of the door is concealed in Professor Chives' chambers.
+‣ **The stairs:** lead up to a long, torch-lit corridor. At the end of the corridor is a stone door that opens into Professor Chives' chambers. The other side of the door is concealed. **Note:** Professor Chives' chambers [is under construction]({% link The Campus/index.md %}) along with the rest of the Fürestveil campus.
 
-‣ **The Glass Alembic:** is in fact, the *Cursed Alembic*. See below.
-<!-- See [[Demon#The Cause of the Curse|The Cause of the Curse]]. Breaking the alembic or removing the curse instantly releases the [[Demon#Demon|Demon]] (with weakened stats). -->
+‣ **The Glass Alembic:** is, in fact, the *Cursed Alembic*. See [The (Secret) Cause of the Demon](#the-secret-cause-of-the-demon). Breaking the alembic or removing the curse instantly releases the Demon with weakened stats (see Demon below).
 
 ‣ **Search the clutter:** find diagrams of cockroach DNA, and various sketches of cockroach and cat anatomy. Search the clutter for 10 minutes and find: a *Bravery Potion* (immune to fear effects for 2d4 turns), a *Polymorph Potion* (works like M-U's Polymorph Self), 2 *Lv. 9 Cure Disease Potions* (equivalent to casting Cure Disease at lv. 9).
 
