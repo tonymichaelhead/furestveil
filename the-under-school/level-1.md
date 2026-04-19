@@ -6,6 +6,7 @@ permalink: /the-under-school/level-1
 ---
 
 [![Click for fullscreen](/assets/images/underschool-lv1-DM.png)](/assets/images/underschool-lv1-DM.png)
+*1 tile = 5x5'*
 
 ## Background
 

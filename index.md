@@ -12,6 +12,8 @@ This is a perilous setting for pen-and-paper adventure games. It is written for 
 
 ---
 
+[![Click for fullscreen](/assets/images/furestveil_player_hexv1.webp)](/assets/images/underschool-lv1-DM.png)
+
 ## The Setting
 A megadungeon/hexcrawl hybrid that revolves around Fürestveil University, the multi-leveled dungeon beneath, and the wilderness surrounding the school. This mini-setting fits within a 6-mile hex and can be dropped into any larger sandbox campaign.
 
